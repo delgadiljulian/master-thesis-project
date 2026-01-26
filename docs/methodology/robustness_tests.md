@@ -156,4 +156,55 @@ Los resultados serán considerados robustos si:
 
 Se establece la siguiente jerarquía:
 
-1. Resultados consistentes en múltip
+1. Resultados consistentes en múltiples especificaciones  
+2. Resultados consistentes en múltiples muestras  
+3. Resultados consistentes en múltiples métodos  
+4. Resultados consistentes en múltiples definiciones  
+5. Resultados consistentes en múltiples ventanas temporales  
+
+---
+
+## Criterios de aceptación científica
+
+Un resultado se considerará científicamente aceptable si:
+
+- supera pruebas de especificación  
+- supera pruebas instrumentales  
+- supera pruebas de robustez  
+- es teóricamente coherente  
+- es empíricamente estable  
+- es metodológicamente defendible  
+- es interpretable económicamente  
+- es replicable  
+
+---
+
+## Función del documento en el proyecto
+
+Este documento permite:
+
+- estructurar la validación empírica  
+- organizar la sección de robustez de la tesis  
+- garantizar calidad científica  
+- facilitar revisión por pares  
+- permitir auditoría académica  
+- asegurar integridad metodológica  
+- documentar decisiones empíricas  
+- sostener inferencia causal  
+
+---
+
+## Registro de evolución de validación
+
+Este archivo documentará:
+
+- pruebas realizadas  
+- resultados obtenidos  
+- especificaciones descartadas  
+- modelos rechazados  
+- decisiones empíricas  
+- ajustes metodológicos  
+- criterios de exclusión  
+- refinamientos del diseño  
+
+durante el desarrollo del proyecto.
