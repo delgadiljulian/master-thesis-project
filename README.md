@@ -3,15 +3,15 @@
 
 **Reproducible research repository for a Master’s thesis in Applied Economics**
 
-This repository contains the full scientific infrastructure, research architecture, data pipelines, and methodological framework for a Master’s thesis focused on **structural transformation and the dynamics of economic diversification** in economies based on **non-renewable natural resources**.
+This repository contains the full scientific infrastructure, research architecture, data pipelines, and methodological framework for a Master’s thesis focused on structural transformation and the dynamics of economic diversification in economies based on non-renewable natural resources.
 
-This is not a document repository — it is a **research system** designed as a reproducible scientific laboratory, following principles of open science, research governance, and academic reproducibility.
+This is not a document repository — it is a research system designed as a reproducible scientific laboratory, following principles of open science, research governance, and academic reproducibility.
 
 ---
 
 ## Core Research Question
 
-> **How does the speed of economic diversification vary across economies highly dependent on non-renewable natural resources, and which structural factors explain these differences?**
+> How does the speed of economic diversification vary across economies highly dependent on non-renewable natural resources, and which structural factors explain these differences?
 
 **Conceptual formulation:**
 
@@ -21,7 +21,7 @@ This is not a document repository — it is a **research system** designed as a 
 
 ## Research Focus
 
-### Central concepts
+### **Central concepts**
 - Structural transformation  
 - Economic diversification dynamics  
 - Speed of productive diversification  
@@ -31,20 +31,20 @@ This is not a document repository — it is a **research system** designed as a 
 - Transformation pathways  
 - Comparative structural dynamics  
 
-### Analytical perspective
-The project does **not** study countries as isolated units.  
-It studies **structural trajectories of transformation** in economies whose productive systems are historically organized around **non-renewable resource extraction**.
+### **Analytical perspective**
+The project does not study countries as isolated units.  
+It studies structural trajectories of transformation in economies whose productive systems are historically organized around non-renewable resource extraction.
 
-Countries are treated as **empirical realizations of structural models**, not as the unit of analysis.
+Countries are treated as empirical realizations of structural models, not as the unit of analysis.
 
 ---
 
 ## Research Objectives
 
-### General objective
-To analyze the structural factors associated with differences in the **speed of productive diversification** in economies based on non-renewable natural resources.
+### **General objective**
+To analyze the structural factors associated with differences in the speed of productive diversification in economies based on non-renewable natural resources.
 
-### Specific objectives
+### **Specific objectives**
 - Construct dynamic indicators of productive diversification  
 - Measure diversification velocity and transformation rates  
 - Identify structural transformation trajectories  
@@ -57,7 +57,7 @@ To analyze the structural factors associated with differences in the **speed of 
 
 ## Methodological Framework
 
-### Analytical design
+### **Analytical design**
 - Structural-comparative approach  
 - Dynamic trajectory analysis  
 - Transformation path modeling  
@@ -65,7 +65,7 @@ To analyze the structural factors associated with differences in the **speed of 
 - Non-homogeneous time structures  
 - Structural alignment of historical processes  
 
-### Econometric strategy
+### **Econometric strategy**
 - Dynamic panel modeling  
 - Structural panel designs  
 - Trajectory-based panel construction  
@@ -75,8 +75,8 @@ To analyze the structural factors associated with differences in the **speed of 
 - Structural heterogeneity analysis  
 - Robustness and regime sensitivity testing  
 
-### Temporal logic
-Time is treated as **structural time**, not calendar time:
+### **Temporal logic**
+Time is treated as structural time, not calendar time:
 - Asynchronous historical trajectories  
 - Phase-based temporal alignment  
 - Event-based structural timing  
@@ -87,7 +87,7 @@ Time is treated as **structural time**, not calendar time:
 
 ## Data Architecture
 
-### Core data sources
+### **Core data sources**
 - World Development Indicators (World Bank)  
 - UNCTADstat  
 - International Energy Agency (IEA)  
@@ -95,7 +95,7 @@ Time is treated as **structural time**, not calendar time:
 - External research datasets  
 - Historical economic databases  
 
-### Data philosophy
+### **Data philosophy**
 - Separation of raw and processed data  
 - Deterministic pipelines  
 - Reproducible transformations  
@@ -107,20 +107,19 @@ Time is treated as **structural time**, not calendar time:
 
 ## Repository Structure
 
-docs/ → Theory, methodology, protocols, drafts, research design
-data/ → Raw, processed, and external datasets
-src/ → Data pipelines, construction scripts, econometric models
-notebooks/ → Exploratory analysis and modeling workflows
-outputs/ → Tables, figures, models, logs
-reproducibility/ → Environments, dependencies, execution pipelines
-governance/ → Research protocols, ethics, versioning, data policy
-
+docs/ → Theory, methodology, protocols, drafts, research design  
+data/ → Raw, processed, and external datasets  
+src/ → Data pipelines, construction scripts, econometric models  
+notebooks/ → Exploratory analysis and modeling workflows  
+outputs/ → Tables, figures, models, logs  
+reproducibility/ → Environments, dependencies, execution pipelines  
+governance/ → Research protocols, ethics, versioning, data policy  
 
 ---
 
 ## Reproducible Research Design
 
-This repository follows **reproducible science principles**:
+This repository follows reproducible science principles:
 
 - Script-based workflows  
 - Deterministic data pipelines  
@@ -183,7 +182,7 @@ MIT License — open academic and research use.
 
 This repository is not a thesis document archive.
 
-It is a **scientific research system**:
+It is a scientific research system:
 
 - Modular  
 - Reproducible  
