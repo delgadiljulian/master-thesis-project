@@ -11,11 +11,11 @@ This is not a document repository — it is a research system designed as a repr
 
 ## Core Research Question
 
-> How do the dynamics, speed, and structural patterns of economic diversification differ between resource-dependent (RD) and non-resource-dependent (NRD) economic systems, and which structural mechanisms explain these differences?
+> How do the dynamics, speed, and structural patterns of economic diversification differ across economic systems that have historically been dependent on non-renewable natural resources, and which structural mechanisms explain these differences across different regimes of resource dependence?
 
 **Conceptual formulation:**
 
-> *This thesis studies how varying degrees of non-renewable resource dependence shape the trajectories, speed, and structural patterns of economic diversification.*
+> *This thesis studies how varying degrees of non-renewable resource dependence shape the trajectories, speed, and structural patterns of economic diversification within economies that have historically followed extractive development paths.*
 
 ---
 
@@ -25,8 +25,8 @@ This is not a document repository — it is a research system designed as a repr
 - Structural transformation  
 - Economic diversification dynamics  
 - Speed of productive diversification  
-- Resource-dependent (RD) economic systems  
-- Non-resource-dependent (NRD) economic systems  
+- Resource-dependent economic systems  
+- Post-resource (NRD) structural regimes  
 - Extractive economic structures  
 - Long-run development trajectories  
 - Transformation pathways  
@@ -34,9 +34,11 @@ This is not a document repository — it is a research system designed as a repr
 
 ### **Analytical perspective**
 The project does not study countries as isolated units.  
-It studies **structural economic systems** characterized by different degrees of non-renewable resource dependence.
+It studies **structural economic systems** characterized by different degrees of non-renewable resource dependence **within the universe of historically extractive economies**.
 
 Economic systems are treated as **structural configurations** rather than fixed national categories, allowing economies to transition over time between different regimes of resource dependence.
+
+RD and NRD are understood as **structural regimes** within historically resource-dependent economies, not as global country classifications.
 
 Countries are treated as empirical realizations of structural models, not as the unit of analysis.
 
@@ -45,17 +47,18 @@ Countries are treated as empirical realizations of structural models, not as the
 ## Research Objectives
 
 ### **General objective**
-To analyze how different degrees of non-renewable resource dependence affect the speed, structure, and dynamics of productive diversification across economic systems.
+To analyze how different degrees of non-renewable resource dependence affect the speed, structure, and dynamics of productive diversification across economic systems with historically extractive development trajectories.
 
 ### **Specific objectives**
 - Construct dynamic indicators of productive diversification  
 - Measure diversification velocity and transformation rates  
 - Model degrees of resource dependence as structural conditions  
-- Identify structural transformation trajectories under RD and NRD regimes  
+- Identify structural transformation trajectories within historically extractive economies  
+- Classify structural regimes of resource dependence (RD → transitional → NRD)  
 - Compare diversification dynamics across different dependence regimes  
 - Evaluate structural and institutional correlates of diversification speed  
 - Model dynamic transformation processes using econometric tools  
-- Analyze regime transitions between RD and NRD structures  
+- Analyze regime transitions within extractive development paths  
 
 ---
 
@@ -65,7 +68,7 @@ To analyze how different degrees of non-renewable resource dependence affect the
 - Structural-comparative approach  
 - Dynamic trajectory analysis  
 - Transformation path modeling  
-- Regime-based structural analysis (RD / NRD)  
+- Regime-based structural analysis within extractive economies  
 - Non-homogeneous time structures  
 - Structural alignment of historical processes  
 
@@ -200,4 +203,4 @@ It is a scientific research system:
 
 ---
 
-> *This repository represents a full scientific research architecture for the study of structural diversification dynamics under varying degrees of non-renewable resource dependence in RD and NRD economic systems.*
+> *This repository represents a full scientific research architecture for the study of structural diversification dynamics under varying degrees of non-renewable resource dependence within historically extractive economic systems.*
