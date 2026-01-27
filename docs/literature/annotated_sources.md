@@ -92,7 +92,7 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 💡 Aportes teóricos
+## Aportes teóricos
 
 -  
 
@@ -116,7 +116,7 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 🧠 Notas críticas
+## Notas críticas
 
 -  
 
@@ -157,3 +157,4 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
