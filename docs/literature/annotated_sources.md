@@ -37,13 +37,13 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-# 📑 Plantilla estándar de ficha bibliográfica
+# Plantilla estándar de ficha bibliográfica
 
 > Esta plantilla se replicará para cada paper/libro/capítulo leído.
 
 ---
 
-## 🧾 Identificación de la fuente
+## Identificación de la fuente
 
 - **Autor(es):**  
 - **Año:**  
@@ -55,19 +55,19 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 🎯 Pregunta de investigación del autor
+## Pregunta de investigación del autor
 
 -  
 
 ---
 
-## 🧠 Marco teórico utilizado
+## Marco teórico utilizado
 
 -  
 
 ---
 
-## 📐 Metodología
+## Metodología
 
 - Tipo de estudio:  
 - Diseño empírico:  
@@ -78,7 +78,7 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 📊 Variables principales
+## Variables principales
 
 - Variable dependiente:  
 - Variables explicativas:  
@@ -86,7 +86,7 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 🔬 Resultados principales
+## Resultados principales
 
 -  
 
@@ -98,19 +98,19 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 📈 Aportes empíricos
+## Aportes empíricos
 
 -  
 
 ---
 
-## ⚠️ Limitaciones
+## Limitaciones
 
 -  
 
 ---
 
-## 🧩 Relación con este proyecto
+## Relación con este proyecto
 
 -  
 
@@ -122,19 +122,19 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ---
 
-## 🧬 Clasificación temática
+## Clasificación temática
 
 - (ej: diversificación, transición energética, resource curse, crecimiento, etc.)
 
 ---
 
-## 📍 Ubicación en el mapa de literatura
+## Ubicación en el mapa de literatura
 
 - (bloque teórico correspondiente)
 
 ---
 
-# 📚 Estado actual del documento
+# Estado actual del documento
 
 - Número de fuentes registradas: 0  
 - Fase: estructural  
