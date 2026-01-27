@@ -25,8 +25,8 @@ This is not a document repository — it is a research system designed as a repr
 - Structural transformation  
 - Economic diversification dynamics  
 - Speed of productive diversification  
-- Resource-dependent economic systems  
-- Post-resource (NRD) structural regimes  
+- Resource-dependent (RD) economic systems  
+- Post-resource-dependence (PRD) structural regimes  
 - Extractive economic structures  
 - Long-run development trajectories  
 - Transformation pathways  
@@ -38,7 +38,7 @@ It studies **structural economic systems** characterized by different degrees of
 
 Economic systems are treated as **structural configurations** rather than fixed national categories, allowing economies to transition over time between different regimes of resource dependence.
 
-RD and NRD are understood as **structural regimes** within historically resource-dependent economies, not as global country classifications.
+RD and PRD are understood as **structural regimes** within historically resource-dependent economies, not as global country classifications.
 
 Countries are treated as empirical realizations of structural models, not as the unit of analysis.
 
@@ -54,7 +54,7 @@ To analyze how different degrees of non-renewable resource dependence affect the
 - Measure diversification velocity and transformation rates  
 - Model degrees of resource dependence as structural conditions  
 - Identify structural transformation trajectories within historically extractive economies  
-- Classify structural regimes of resource dependence (RD → transitional → NRD)  
+- Classify structural regimes of resource dependence (RD → transitional → PRD)  
 - Compare diversification dynamics across different dependence regimes  
 - Evaluate structural and institutional correlates of diversification speed  
 - Model dynamic transformation processes using econometric tools  
@@ -203,4 +203,4 @@ It is a scientific research system:
 
 ---
 
-> *This repository represents a full scientific research architecture for the study of structural diversification dynamics under varying degrees of non-renewable resource dependence within historically extractive economic systems.*
+> *This repository represents a full scientific research architecture for the study of structural diversification dynamics under varying degrees of non-renewable resource dependence within historically extractive economic systems and their transitions toward post-resource-dependence (PRD) regimes.*
