@@ -26,7 +26,7 @@ This is not a document repository — it is a research system designed as a repr
 - Economic diversification dynamics  
 - Speed of productive diversification  
 - Resource-dependent (RD) economic systems  
-- Post-resource-dependence (PRD) structural regimes  
+- Post-resource-dependence (PRD) economic systems  
 - Extractive economic structures  
 - Long-run development trajectories  
 - Transformation pathways  
