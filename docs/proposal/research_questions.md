@@ -2,7 +2,9 @@
 
 ## Core Research Question
 
-¿Cómo varían la velocidad, las dinámicas y los patrones estructurales de diversificación económica entre sistemas económicos caracterizados por distintos grados de dependencia de recursos naturales no renovables, y qué mecanismos estructurales explican estas diferencias a lo largo de transiciones entre regímenes de dependencia?
+How does non-renewable resource dependence shape the speed and structural pathways of economic diversification in historically extractive economies?
+
+¿Cómo moldea la dependencia de recursos naturales no renovables la velocidad y las trayectorias estructurales de la diversificación económica en economías históricamente extractivas?
 
 ---
 
@@ -99,3 +101,4 @@ El proyecto adopta un enfoque:
 * No prescriptivo  
 
 Orientado al estudio de **procesos de transformación estructural** y **dinámicas de diversificación**, no a comparaciones estáticas entre países ni a análisis descriptivos territoriales.
+
