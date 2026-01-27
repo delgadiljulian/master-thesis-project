@@ -1,9 +1,9 @@
 # Master Thesis Research Project  
-**Structural Transformation, Diversification Dynamics, and Non-Renewable Resource Economies**
+**Structural Transformation, Diversification Dynamics, and Resource Dependence**
 
 **Reproducible research repository for a Master’s thesis in Applied Economics**
 
-This repository contains the full scientific infrastructure, research architecture, data pipelines, and methodological framework for a Master’s thesis focused on structural transformation and the dynamics of economic diversification in economies based on non-renewable natural resources.
+This repository contains the full scientific infrastructure, research architecture, data pipelines, and methodological framework for a Master’s thesis focused on structural transformation and the dynamics of economic diversification under conditions of non-renewable resource dependence.
 
 This is not a document repository — it is a research system designed as a reproducible scientific laboratory, following principles of open science, research governance, and academic reproducibility.
 
@@ -11,11 +11,11 @@ This is not a document repository — it is a research system designed as a repr
 
 ## Core Research Question
 
-> How does the speed of economic diversification vary across economies highly dependent on non-renewable natural resources, and which structural factors explain these differences?
+> How do the dynamics, speed, and structural patterns of economic diversification differ between resource-dependent (RD) and non-resource-dependent (NRD) economic systems, and which structural mechanisms explain these differences?
 
 **Conceptual formulation:**
 
-> *This thesis studies why some economies based on non-renewable natural resources diversify faster than others.*
+> *This thesis studies how varying degrees of non-renewable resource dependence shape the trajectories, speed, and structural patterns of economic diversification.*
 
 ---
 
@@ -25,15 +25,18 @@ This is not a document repository — it is a research system designed as a repr
 - Structural transformation  
 - Economic diversification dynamics  
 - Speed of productive diversification  
-- Non-renewable resource-based economies  
-- Extractive economic models  
+- Resource-dependent (RD) economic systems  
+- Non-resource-dependent (NRD) economic systems  
+- Extractive economic structures  
 - Long-run development trajectories  
 - Transformation pathways  
 - Comparative structural dynamics  
 
 ### **Analytical perspective**
 The project does not study countries as isolated units.  
-It studies structural trajectories of transformation in economies whose productive systems are historically organized around non-renewable resource extraction.
+It studies **structural economic systems** characterized by different degrees of non-renewable resource dependence.
+
+Economic systems are treated as **structural configurations** rather than fixed national categories, allowing economies to transition over time between different regimes of resource dependence.
 
 Countries are treated as empirical realizations of structural models, not as the unit of analysis.
 
@@ -42,16 +45,17 @@ Countries are treated as empirical realizations of structural models, not as the
 ## Research Objectives
 
 ### **General objective**
-To analyze the structural factors associated with differences in the speed of productive diversification in economies based on non-renewable natural resources.
+To analyze how different degrees of non-renewable resource dependence affect the speed, structure, and dynamics of productive diversification across economic systems.
 
 ### **Specific objectives**
 - Construct dynamic indicators of productive diversification  
 - Measure diversification velocity and transformation rates  
-- Identify structural transformation trajectories  
-- Classify models of extractive economic organization  
-- Analyze comparative transformation dynamics  
+- Model degrees of resource dependence as structural conditions  
+- Identify structural transformation trajectories under RD and NRD regimes  
+- Compare diversification dynamics across different dependence regimes  
 - Evaluate structural and institutional correlates of diversification speed  
 - Model dynamic transformation processes using econometric tools  
+- Analyze regime transitions between RD and NRD structures  
 
 ---
 
@@ -61,15 +65,15 @@ To analyze the structural factors associated with differences in the speed of pr
 - Structural-comparative approach  
 - Dynamic trajectory analysis  
 - Transformation path modeling  
-- Regime and phase-based temporal analysis  
+- Regime-based structural analysis (RD / NRD)  
 - Non-homogeneous time structures  
 - Structural alignment of historical processes  
 
 ### **Econometric strategy**
 - Dynamic panel modeling  
 - Structural panel designs  
-- Trajectory-based panel construction  
 - Regime and phase-aligned panels  
+- Continuous modeling of resource dependence (non-binary)  
 - Endogeneity control  
 - Dynamic persistence modeling  
 - Structural heterogeneity analysis  
@@ -196,4 +200,4 @@ It is a scientific research system:
 
 ---
 
-> *This repository represents a full scientific research architecture for the study of structural transformation and diversification dynamics in non-renewable resource-based economies.*
+> *This repository represents a full scientific research architecture for the study of structural diversification dynamics under varying degrees of non-renewable resource dependence in RD and NRD economic systems.*
