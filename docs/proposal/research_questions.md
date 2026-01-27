@@ -2,29 +2,29 @@
 
 ## Core Research Question
 
-¿Cómo varían la velocidad, las dinámicas y los patrones estructurales de diversificación económica entre sistemas económicos caracterizados por distintos grados de dependencia de recursos naturales no renovables, y qué mecanismos estructurales explican estas diferencias?
+¿Cómo varían la velocidad, las dinámicas y los patrones estructurales de diversificación económica entre sistemas económicos caracterizados por distintos grados de dependencia de recursos naturales no renovables, y qué mecanismos estructurales explican estas diferencias a lo largo de transiciones entre regímenes de dependencia?
 
 ---
 
 ## Formulación conceptual
 
-Esta tesis estudia cómo los distintos grados de dependencia de recursos naturales no renovables configuran las trayectorias, la velocidad y las formas de la diversificación económica, entendiendo la dependencia de recursos como una condición estructural dinámica y no como una categoría fija de país.
+Esta tesis estudia cómo los distintos grados de dependencia de recursos naturales no renovables configuran las trayectorias, la velocidad y las formas de la diversificación económica, entendiendo la dependencia de recursos como una **condición estructural dinámica**, y no como una categoría fija de país, dentro de economías con trayectorias históricamente extractivas.
 
 ---
 
 ## Subpreguntas de investigación
 
 1. ¿Cómo puede medirse empíricamente la velocidad de diversificación productiva como un proceso dinámico en sistemas económicos con distintos grados de dependencia de recursos no renovables?  
-2. ¿Qué patrones de transformación estructural emergen en economías que transitan entre distintos regímenes de dependencia de recursos (baja, media y alta dependencia)?  
+2. ¿Qué patrones de transformación estructural emergen en economías que transitan entre distintos regímenes de dependencia de recursos (alta dependencia → transición → post-resource-dependence, PRD)?  
 3. ¿Qué configuraciones estructurales (productivas, institucionales, fiscales, energéticas y macroeconómicas) se asocian con mayores velocidades de diversificación económica?  
 4. ¿Cómo influyen las condiciones iniciales, las trayectorias históricas y los procesos de dependencia de trayectoria (path dependence) en la dinámica de transformación productiva?  
-5. ¿Existen regímenes estructurales diferenciados de diversificación asociados a distintos niveles de dependencia de recursos no renovables?  
+5. ¿Existen regímenes estructurales diferenciados de diversificación asociados a distintos niveles de dependencia de recursos no renovables dentro del universo de economías históricamente extractivas?  
 
 ---
 
 ## Objetivo general
 
-Analizar cómo los distintos grados de dependencia de recursos naturales no renovables influyen en la velocidad, estructura y dinámica de la diversificación productiva en sistemas económicos, identificando los mecanismos estructurales que explican dichas diferencias.
+Analizar cómo los distintos grados de dependencia de recursos naturales no renovables influyen en la velocidad, estructura y dinámica de la diversificación productiva en sistemas económicos con trayectorias históricamente extractivas, identificando los mecanismos estructurales que explican dichas diferencias.
 
 ---
 
@@ -34,10 +34,10 @@ Analizar cómo los distintos grados de dependencia de recursos naturales no reno
 * Definir métricas operacionales de velocidad de diversificación económica.  
 * Modelar la dependencia de recursos no renovables como condición estructural continua (no binaria).  
 * Identificar trayectorias estructurales diferenciadas de transformación económica.  
-* Clasificar regímenes estructurales de organización económica según grados de dependencia de recursos.  
+* Clasificar regímenes estructurales de organización económica según grados de dependencia de recursos (RD → transición → PRD).  
 * Analizar patrones comparativos de diversificación bajo distintos regímenes estructurales.  
 * Evaluar factores estructurales asociados a mayores tasas de cambio estructural.  
-* Analizar transiciones entre regímenes de dependencia (RD → NRD y viceversa).  
+* Analizar transiciones entre regímenes de dependencia dentro de trayectorias extractivas históricas.  
 
 ---
 
@@ -48,13 +48,14 @@ La investigación se delimita a:
 * Sistemas económicos cuya estructura productiva ha estado históricamente organizada en torno a la extracción y exportación de recursos naturales no renovables.  
 * Procesos de transformación estructural y diversificación productiva.  
 * Dinámicas de largo plazo y trayectorias históricas.  
-* Regímenes estructurales de dependencia de recursos (baja, media y alta dependencia).  
-* Análisis comparado de configuraciones estructurales económicas.  
+* Regímenes estructurales de dependencia de recursos (alta dependencia, transición, post-resource-dependence).  
+* Análisis comparado de configuraciones estructurales económicas dentro del universo extractivo.  
 
 La investigación no se orienta a:
 
 * Estudios descriptivos por país.  
 * Clasificaciones fijas de países como categorías analíticas.  
+* Comparaciones entre economías extractivas y economías que nunca han seguido trayectorias extractivas.  
 * Análisis normativos o prescriptivos de política pública.  
 * Evaluaciones de impacto de políticas específicas.  
 * Comparaciones geográficas o regionales puramente espaciales.  
@@ -78,7 +79,7 @@ Los países se consideran unidades empíricas de observación que permiten ident
 
 ## Objeto de estudio
 
-Los procesos de transformación estructural y diversificación productiva en sistemas económicos cuya organización productiva ha estado históricamente centrada en la extracción y exportación de recursos naturales no renovables, analizados como regímenes estructurales dinámicos que evolucionan en el tiempo y pueden transitar entre distintos grados de dependencia de recursos.
+Los procesos de transformación estructural y diversificación productiva en sistemas económicos cuya organización productiva ha estado históricamente centrada en la extracción y exportación de recursos naturales no renovables, analizados como **regímenes estructurales dinámicos** que evolucionan en el tiempo y pueden transitar entre distintos grados de dependencia de recursos, incluyendo trayectorias hacia regímenes de post-resource-dependence (PRD).
 
 ---
 
