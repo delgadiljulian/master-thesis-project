@@ -329,7 +329,8 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 ## Cita en APA
 - Howie, P. (2018). Policy transfer and diversification in resource-dependent economies: Lessons for Kazakhstan from Alberta. Politics & Policy, 46(1), 110–140. https://doi.org/10.1111/polp.12239
 ---
-# Ficha bibliográfica
+
+# Ficha bibliográfica # 49.
 
 ## Identificación
 Autor(es): Raouf Boucekkine; Fabien Prieur; Chrysovalantis Vasilakis; Benteng Zou  
@@ -424,6 +425,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
