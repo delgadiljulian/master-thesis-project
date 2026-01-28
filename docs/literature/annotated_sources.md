@@ -305,7 +305,7 @@ Paper altamente técnico y estructural. Muy útil para análisis de diversificac
 ---
 
 ## Cita en APA
-Gelan, A., Hewings, G. J. D., & Alawadhi, A. (2021). Diversifying a resource-dependent economy: private–public relationships in the Kuwaiti economy. *Economic Structures, 10*(15). https://doi.org/10.1186/s40008-021-00246-4
+- Gelan, A., Hewings, G. J. D., & Alawadhi, A. (2021). Diversifying a resource-dependent economy: private–public relationships in the Kuwaiti economy. *Economic Structures, 10*(15). https://doi.org/10.1186/s40008-021-00246-4
 ---
 
 # Ficha bibliográfica # 41.
@@ -509,6 +509,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
