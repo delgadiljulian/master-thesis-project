@@ -99,6 +99,10 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 -
 ---
 
+## Cita en APA
+-
+---
+
 # Ficha bibliográfica # 17.
 
 ## Identificación
@@ -215,6 +219,10 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 - Conecta recursos naturales, instituciones y estabilidad macroeconómica
 
 ---
+
+## Cita en APA
+- Lwazi, M. (2022). Mineral resource management and economic growth: What Zambia should learn from Chile. Journal of Economics, Finance and Accounting Studies, 4(2), 191–205. https://doi.org/10.32996/jefas.2022.4.2.15
+---
 # Ficha bibliográfica # 41.
 
 ## Identificación
@@ -316,6 +324,11 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 - Compatible con narrativa de transición energética y transformación productiva  
 
 ---
+
+## Cita en APA
+- Howie, P. (2018). Policy transfer and diversification in resource-dependent economies: Lessons for Kazakhstan from Alberta. Politics & Policy, 46(1), 110–140. https://doi.org/10.1111/polp.12239
+---
+
 ## Registro de evolución del documento
 
 Este archivo documentará:
@@ -330,6 +343,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
