@@ -518,7 +518,7 @@ Paper altamente técnico y estructural. Muy útil para análisis de diversificac
 ---
 
 ## Cita en APA
-Boucekkine, R., Prieur, F., Vasilakis, C., & Zou, B. (2021). *Stochastic petropolitics: The dynamics of institutions in resource-dependent economies*. European Economic Review, 131, 103610. https://doi.org/10.1016/j.euroecorev.2020.103610
+- Boucekkine, R., Prieur, F., Vasilakis, C., & Zou, B. (2021). *Stochastic petropolitics: The dynamics of institutions in resource-dependent economies*. European Economic Review, 131, 103610. https://doi.org/10.1016/j.euroecorev.2020.103610
 ---
 
 # Ficha bibliográfica # 49.
@@ -617,6 +617,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
