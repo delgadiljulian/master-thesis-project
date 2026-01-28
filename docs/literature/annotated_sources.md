@@ -414,6 +414,113 @@ Paper altamente técnico y estructural. Muy útil para análisis de diversificac
 - Howie, P. (2018). Policy transfer and diversification in resource-dependent economies: Lessons for Kazakhstan from Alberta. Politics & Policy, 46(1), 110–140. https://doi.org/10.1111/polp.12239
 ---
 
+---
+# Ficha bibliográfica #43.
+
+## Identificación
+- Autor(es): Raouf Boucekkine; Fabien Prieur; Chrysovalantis Vasilakis; Benteng Zou
+- Año: 2021
+- Título: Stochastic petropolitics: The dynamics of institutions in resource-dependent economies
+- Fuente: European Economic Review, Vol. 131
+- Tipo de documento: journal
+- DOI / URL: https://doi.org/10.1016/j.euroecorev.2020.103610
+
+---
+
+## Idea central
+> La volatilidad de los ingresos por recursos naturales afecta dinámicamente la calidad institucional a través de juegos de lobby estocásticos, alterando el equilibrio entre fuerzas conservadoras y reformistas.
+
+---
+
+## Pregunta / problema que aborda
+- ¿Cómo influye la volatilidad de los ingresos por recursos naturales en la evolución de las instituciones y los procesos de liberalización en economías dependientes de recursos?
+
+---
+
+## Enfoque teórico
+- Economía política de los recursos naturales  
+- Resource curse / petropolitics  
+- Teoría institucional  
+- Juegos dinámicos estocásticos  
+- Lobbying político-económico  
+- Economía política de la liberalización financiera
+
+---
+
+## Enfoque metodológico
+- Mixto  
+- Modelo teórico formal (juego diferencial estocástico)
+- Econometría empírica (panel de países, ordered probit, GMM, IV, MLE)
+
+---
+
+## Variables / conceptos clave
+- Volatilidad de ingresos por recursos naturales  
+- Calidad institucional  
+- Liberalización financiera  
+- Lobbying  
+- Petropolitics  
+- Recursos renovables vs no renovables  
+- Instituciones conservadoras vs liberales  
+- Estabilidad institucional  
+- Juegos estocásticos  
+- Volatilidad de rentas petroleras  
+
+---
+
+## Resultado / argumento principal
+- La volatilidad de los ingresos por recursos tiende a debilitar el poder político de los grupos conservadores en el largo plazo, estabilizando las instituciones.
+- En recursos no renovables, la volatilidad puede llevar a convergencia institucional hacia posiciones más neutrales.
+- Empíricamente, mayor volatilidad reduce la probabilidad de liberalización financiera.
+
+---
+
+## Qué me aporta
+- Marco teórico formal para conectar volatilidad de recursos con dinámica institucional.
+- Modelo explicativo del conflicto élite–reformistas vía lobbying.
+- Base conceptual para integrar resource curse + institucionalismo dinámico.
+- Evidencia empírica sólida sobre volatilidad y liberalización financiera.
+- Articulación teoría–datos altamente estructurada.
+
+---
+
+## Posibles usos futuros
+- Marco teórico  
+- Modelo conceptual  
+- Metodología econométrica  
+- Discusión teórica  
+- Contexto institucional  
+- Base para modelos SDD institucionales  
+- Referencia para tesis sobre resource-dependence  
+- Fundamento para análisis de transición energética e instituciones  
+
+---
+
+## Conexiones
+- Sachs & Warner (resource curse)  
+- Ross (petropolitics)  
+- Friedman (First Law of Petropolitics)  
+- Poelhekke & van der Ploeg (volatilidad y crecimiento)  
+- Caselli & Tesei (instituciones y recursos)  
+- Abiad et al. (liberalización financiera)  
+- Van der Ploeg & Venables (resource windfalls)  
+- Economía política institucional  
+- Teoría de juegos dinámicos  
+
+---
+
+## Notas libres
+- Excelente paper puente entre teoría formal y evidencia empírica.
+- Útil como base para modelos de arquitectura institucional (SDD institucional).
+- Muy aplicable a contextos como Colombia, Medio Oriente, África y economías extractivas.
+- Relevante para marcos de transición energética y gobernanza.
+
+---
+
+## Cita en APA
+Boucekkine, R., Prieur, F., Vasilakis, C., & Zou, B. (2021). *Stochastic petropolitics: The dynamics of institutions in resource-dependent economies*. European Economic Review, 131, 103610. https://doi.org/10.1016/j.euroecorev.2020.103610
+---
+
 # Ficha bibliográfica # 49.
 
 ## Identificación
@@ -509,6 +616,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
