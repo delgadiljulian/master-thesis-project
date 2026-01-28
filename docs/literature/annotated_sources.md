@@ -222,6 +222,90 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ## Cita en APA
 - Lwazi, M. (2022). Mineral resource management and economic growth: What Zambia should learn from Chile. Journal of Economics, Finance and Accounting Studies, 4(2), 191–205. https://doi.org/10.32996/jefas.2022.4.2.15
+
+---
+# Ficha bibliográfica # 36.
+
+## Identificación
+Autor(es): Ayele Gelan; Geoffrey J. D. Hewings; Ahmad Alawadhi  
+Año: 2021  
+Título: Diversifying a resource-dependent economy: private–public relationships in the Kuwaiti economy  
+Fuente: *Economic Structures*, Vol. 10, Article 15  
+Tipo de documento: journal  
+DOI / URL: https://doi.org/10.1186/s40008-021-00246-4
+
+---
+
+## Idea central
+(1–3 líneas máximo)  
+Analiza cómo las relaciones público–privadas y las interdependencias sectoriales condicionan la diversificación económica en Kuwait, mostrando que la estructura productiva basada en petróleo y sector público limita la transformación productiva.
+
+---
+
+## Pregunta / problema que aborda
+¿Cómo puede una economía altamente dependiente del petróleo y dominada por el sector público (como Kuwait) diversificarse efectivamente hacia una estructura más privada y no petrolera?
+
+---
+
+## Enfoque teórico
+Economía estructural, teoría de interdependencia sectorial, desarrollo económico, economía política de la diversificación, dependencia de recursos (resource dependence).
+
+---
+
+## Enfoque metodológico
+mixto  
+modelo input–output + análisis estructural  
+(modelo / análisis IO / interdependencias público–privadas / simulaciones de política)
+
+---
+
+## Variables / conceptos clave
+- Dependencia petrolera  
+- Sector público vs sector privado  
+- Diversificación productiva  
+- Encadenamientos productivos  
+- Input–output  
+- Forward linkages  
+- Backward linkages  
+- Interdependencia sectorial  
+- Estructura económica  
+- Desarrollo privado  
+
+---
+
+## Resultado / argumento principal
+La economía kuwaití presenta fuertes desequilibrios estructurales: alta dependencia del petróleo y dominio del sector público. Los sectores petroleros tienen fuertes encadenamientos hacia adelante pero débiles hacia atrás, mientras que pocos sectores no petroleros (como químicos) muestran encadenamientos balanceados. La diversificación requiere políticas coordinadas entre privatización y desarrollo sectorial.
+
+---
+
+## Qué me aporta
+Base empírica sólida sobre diversificación en economías rentistas; marco estructural para analizar economías dependientes de recursos; evidencia cuantitativa de interdependencias sectoriales; soporte técnico para el debate resource curse vs diversificación.
+
+---
+
+## Posibles usos futuros
+marco teórico  
+modelo conceptual  
+discusión  
+contexto comparativo internacional  
+diseño de políticas  
+base metodológica (input–output)  
+análisis estructural de economías extractivas
+
+---
+
+## Conexiones
+(resource curse); Dutch Disease; economía estructuralista; Hirschman (encadenamientos); Sachs & Warner; diversificación productiva; desarrollo en economías rentistas; input–output analysis (Leontief).
+
+---
+
+## Notas libres
+Paper altamente técnico y estructural. Muy útil para análisis de diversificación en economías petroleras. Metodológicamente fuerte (IO tables, feedback loops). Aplicable como referencia comparativa para países como Chile, Colombia, Perú y economías extractivas en general.
+
+---
+
+## Cita en APA
+Gelan, A., Hewings, G. J. D., & Alawadhi, A. (2021). Diversifying a resource-dependent economy: private–public relationships in the Kuwaiti economy. *Economic Structures, 10*(15). https://doi.org/10.1186/s40008-021-00246-4
 ---
 
 # Ficha bibliográfica # 41.
@@ -425,6 +509,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
