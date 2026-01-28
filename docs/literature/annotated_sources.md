@@ -101,8 +101,6 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 ---
 # Ficha bibliográfica #1
 
-# Ficha bibliográfica
-
 ## Identificación
 - Autor(es): Peter Howie  
 - Año: 2018  
@@ -216,5 +214,6 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
