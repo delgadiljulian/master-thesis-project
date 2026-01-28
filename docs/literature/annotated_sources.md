@@ -415,72 +415,83 @@ Paper altamente técnico y estructural. Muy útil para análisis de diversificac
 ---
 
 ---
-# Ficha bibliográfica #43.
+# Ficha bibliográfica # 43.
 
 ## Identificación
-- Autor(es): Raouf Boucekkine; Fabien Prieur; Chrysovalantis Vasilakis; Benteng Zou
-- Año: 2021
-- Título: Stochastic petropolitics: The dynamics of institutions in resource-dependent economies
-- Fuente: European Economic Review, Vol. 131
-- Tipo de documento: journal
-- DOI / URL: https://doi.org/10.1016/j.euroecorev.2020.103610
+- Autor(es): Goran M. Muhamad; Almas Heshmati; Nabaz T. Khayyat  
+- Año: 2020  
+- Título: The Dynamics of Private Sector Development in Natural Resource Dependent Countries  
+- Fuente: Global Economic Review (Perspectives on East Asian Economies and Industries)  
+- Tipo de documento: journal  
+- DOI / URL: https://doi.org/10.1080/1226508X.2020.1821745  
 
 ---
 
 ## Idea central
-> La volatilidad de los ingresos por recursos naturales afecta dinámicamente la calidad institucional a través de juegos de lobby estocásticos, alterando el equilibrio entre fuerzas conservadoras y reformistas.
+El desarrollo del sector privado puede convertirse en un mecanismo clave para mitigar la “maldición de los recursos”, siempre que existan condiciones institucionales, humanas y económicas adecuadas.
 
 ---
 
 ## Pregunta / problema que aborda
-- ¿Cómo influye la volatilidad de los ingresos por recursos naturales en la evolución de las instituciones y los procesos de liberalización en economías dependientes de recursos?
+¿Cómo puede el desarrollo del sector privado contribuir al crecimiento económico y a la reducción de los efectos negativos de la dependencia de recursos naturales en países resource-dependent?
 
 ---
 
 ## Enfoque teórico
+- Resource curse (maldición de los recursos)  
+- Economía del desarrollo  
+- Teoría de privatización  
+- Desarrollo del sector privado (PSD)  
+- Economía institucional  
+- Transición estructural  
 - Economía política de los recursos naturales  
-- Resource curse / petropolitics  
-- Teoría institucional  
-- Juegos dinámicos estocásticos  
-- Lobbying político-económico  
-- Economía política de la liberalización financiera
 
 ---
 
 ## Enfoque metodológico
 - Mixto  
-- Modelo teórico formal (juego diferencial estocástico)
-- Econometría empírica (panel de países, ordered probit, GMM, IV, MLE)
+- Modelo econométrico dinámico  
+- Modelo de ajuste flexible dinámico (dynamic flexible adjustment model)  
+- Econometría de panel  
+- Comparación modelo estático vs dinámico  
 
 ---
 
 ## Variables / conceptos clave
-- Volatilidad de ingresos por recursos naturales  
-- Calidad institucional  
-- Liberalización financiera  
-- Lobbying  
-- Petropolitics  
-- Recursos renovables vs no renovables  
-- Instituciones conservadoras vs liberales  
-- Estabilidad institucional  
-- Juegos estocásticos  
-- Volatilidad de rentas petroleras  
+- Desarrollo del sector privado (PSD)  
+- Dependencia de recursos naturales  
+- Rentas de recursos naturales  
+- Privatización  
+- Capital humano  
+- Gobernanza  
+- Estado de derecho  
+- Inversión privada  
+- FDI (inversión extranjera directa)  
+- Manufactura  
+- Crecimiento económico  
+- Volatilidad de recursos  
+- Ajuste dinámico  
+- Sector privado  
+- Resource dependency  
 
 ---
 
 ## Resultado / argumento principal
-- La volatilidad de los ingresos por recursos tiende a debilitar el poder político de los grupos conservadores en el largo plazo, estabilizando las instituciones.
-- En recursos no renovables, la volatilidad puede llevar a convergencia institucional hacia posiciones más neutrales.
-- Empíricamente, mayor volatilidad reduce la probabilidad de liberalización financiera.
+- Las rentas de recursos naturales pueden fomentar el desarrollo del sector privado si existen instituciones adecuadas.
+- El sector privado puede reducir los efectos de la maldición de los recursos mediante encadenamientos productivos (backward & forward linkages).
+- El desarrollo del capital humano, la gobernanza, la estabilidad política y la manufactura son factores clave.
+- Los países exportadores de petróleo y gas presentan mayor velocidad de ajuste hacia niveles óptimos de desarrollo del sector privado.
+- La privatización y la apertura económica son mecanismos centrales de transición estructural.
 
 ---
 
 ## Qué me aporta
-- Marco teórico formal para conectar volatilidad de recursos con dinámica institucional.
-- Modelo explicativo del conflicto élite–reformistas vía lobbying.
-- Base conceptual para integrar resource curse + institucionalismo dinámico.
-- Evidencia empírica sólida sobre volatilidad y liberalización financiera.
-- Articulación teoría–datos altamente estructurada.
+- Marco analítico sólido para estudiar PSD en economías extractivas.
+- Modelo dinámico formal aplicable a países resource-dependent.
+- Evidencia empírica robusta (110 países, 1990–2017).
+- Conexión directa entre desarrollo privado, transición productiva y resource curse.
+- Base teórica para políticas de diversificación productiva.
+- Soporte conceptual para tesis sobre dependencia de recursos, diversificación y crecimiento.
 
 ---
 
@@ -490,35 +501,41 @@ Paper altamente técnico y estructural. Muy útil para análisis de diversificac
 - Metodología econométrica  
 - Discusión teórica  
 - Contexto institucional  
-- Base para modelos SDD institucionales  
-- Referencia para tesis sobre resource-dependence  
-- Fundamento para análisis de transición energética e instituciones  
+- Análisis de transición estructural  
+- Políticas públicas  
+- Economía del desarrollo  
+- Modelos de diversificación productiva  
 
 ---
 
 ## Conexiones
 - Sachs & Warner (resource curse)  
-- Ross (petropolitics)  
-- Friedman (First Law of Petropolitics)  
-- Poelhekke & van der Ploeg (volatilidad y crecimiento)  
-- Caselli & Tesei (instituciones y recursos)  
-- Abiad et al. (liberalización financiera)  
-- Van der Ploeg & Venables (resource windfalls)  
-- Economía política institucional  
-- Teoría de juegos dinámicos  
+- Frankel (resource curse)  
+- Van der Ploeg (resource economics)  
+- Venables (resource dependence)  
+- Auty (resource abundance)  
+- Ross (political economy of resources)  
+- Economía institucional  
+- Economía del desarrollo  
+- Privatización y liberalización  
+- Transición estructural  
+- Resource curse debate  
 
 ---
 
 ## Notas libres
-- Excelente paper puente entre teoría formal y evidencia empírica.
-- Útil como base para modelos de arquitectura institucional (SDD institucional).
-- Muy aplicable a contextos como Colombia, Medio Oriente, África y economías extractivas.
-- Relevante para marcos de transición energética y gobernanza.
+- Paper altamente relevante para economías extractivas como Colombia.
+- Excelente para articular transición energética + diversificación productiva.
+- Útil como soporte teórico en tesis de economía aplicada.
+- Conecta privatización, desarrollo privado y estructura productiva.
+- Muy valioso para modelos de política pública y planificación económica.
+- Compatible con enfoques de desarrollo sostenible y gobernanza.
 
 ---
 
 ## Cita en APA
-- Boucekkine, R., Prieur, F., Vasilakis, C., & Zou, B. (2021). *Stochastic petropolitics: The dynamics of institutions in resource-dependent economies*. European Economic Review, 131, 103610. https://doi.org/10.1016/j.euroecorev.2020.103610
+- Muhamad, G. M., Heshmati, A., & Khayyat, N. T. (2020). *The dynamics of private sector development in natural resource dependent countries*. Global Economic Review. https://doi.org/10.1080/1226508X.2020.1821745
+
 ---
 
 # Ficha bibliográfica # 49.
@@ -617,6 +634,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
