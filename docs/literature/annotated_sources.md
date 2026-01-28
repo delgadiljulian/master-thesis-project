@@ -223,6 +223,7 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 ## Cita en APA
 - Lwazi, M. (2022). Mineral resource management and economic growth: What Zambia should learn from Chile. Journal of Economics, Finance and Accounting Studies, 4(2), 191–205. https://doi.org/10.32996/jefas.2022.4.2.15
 ---
+
 # Ficha bibliográfica # 41.
 
 ## Identificación
@@ -328,7 +329,87 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 ## Cita en APA
 - Howie, P. (2018). Policy transfer and diversification in resource-dependent economies: Lessons for Kazakhstan from Alberta. Politics & Policy, 46(1), 110–140. https://doi.org/10.1111/polp.12239
 ---
+# Ficha bibliográfica
 
+## Identificación
+Autor(es): Raouf Boucekkine; Fabien Prieur; Chrysovalantis Vasilakis; Benteng Zou  
+Año: 2021  
+Título: Stochastic petropolitics: The dynamics of institutions in resource-dependent economies  
+Fuente: European Economic Review, Vol. 131, Article 103610  
+Tipo de documento: journal  
+DOI / URL: https://doi.org/10.1016/j.euroecorev.2020.103610
+
+---
+
+## Idea central
+(1–3 líneas máximo)  
+Analiza cómo la volatilidad de los ingresos por recursos naturales afecta la dinámica institucional y los procesos de liberalización, mostrando que mayor volatilidad tiende a debilitar la liberalización institucional.
+
+---
+
+## Pregunta / problema que aborda
+¿Cómo influye la volatilidad de los ingresos por recursos naturales (especialmente petróleo) en la evolución de las instituciones y en los procesos de liberalización económica en economías dependientes de recursos?
+
+---
+
+## Enfoque teórico
+Economía política institucional, teoría de la “resource curse”, petropolítica, teoría de juegos dinámicos, economía política de la liberalización.
+
+---
+
+## Enfoque metodológico
+teórico / empírico / mixto  
+modelo teórico (juego dinámico estocástico de lobby) + econometría panel (91 países, 1973–2005)
+
+---
+
+## Variables / conceptos clave
+- Volatilidad de ingresos por recursos naturales  
+- Instituciones  
+- Liberalización financiera  
+- Petropolítica  
+- Lobbying  
+- Resource curse  
+- Volatilidad de rentas petroleras  
+- Calidad institucional  
+
+---
+
+## Resultado / argumento principal
+La volatilidad de los ingresos por recursos naturales reduce la liberalización institucional (especialmente financiera). A mayor volatilidad, menor liberalización. Además, la volatilidad de rentas tiene efectos negativos sobre el crecimiento económico en países con baja liberalización financiera.
+
+---
+
+## Qué me aporta
+Marco teórico sólido para vincular recursos naturales, instituciones y volatilidad; modelo formal de economía política; evidencia empírica robusta multinacional; soporte directo para debates sobre resource curse institucional.
+
+---
+
+## Posibles usos futuros
+marco teórico  
+modelo conceptual  
+discusión  
+contexto comparativo internacional  
+fundamento econométrico  
+análisis institucional  
+modelo de economía política de recursos
+
+---
+
+## Conexiones
+(resource curse) Sachs & Warner; Ross; Friedman (petropolitics); Van der Ploeg; Poelhekke & Van der Ploeg; Caselli & Tesei; economía institucional; economía política de recursos naturales.
+
+---
+
+## Notas libres
+Paper altamente estructural. Combina teoría formal + evidencia empírica. Muy fuerte para marco teórico y discusión institucional. Útil para justificar vínculos entre volatilidad, instituciones, liberalización y crecimiento.
+
+---
+
+## Cita en APA
+Boucekkine, R., Prieur, F., Vasilakis, C., & Zou, B. (2021). Stochastic petropolitics: The dynamics of institutions in resource-dependent economies. *European Economic Review, 131*, 103610. https://doi.org/10.1016/j.euroecorev.2020.103610
+
+---
 ## Registro de evolución del documento
 
 Este archivo documentará:
@@ -343,6 +424,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
