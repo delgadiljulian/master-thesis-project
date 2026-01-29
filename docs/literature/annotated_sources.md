@@ -733,6 +733,78 @@ El desarrollo del sector privado puede convertirse en un mecanismo clave para mi
 
 ---
 
+# Ficha bibliográfica # 47. 
+
+## Identificación  
+Autor(es): Christian von Haldenwang; Maksym Ivanyna  
+Año: 2018  
+Título: Does the political resource curse affect public finance? The vulnerability of tax revenue in resource-dependent countries  
+Fuente: *Journal of International Development*, Vol. 30, pp. 323–344  
+Tipo de documento: journal  
+DOI / URL: https://doi.org/10.1002/jid.3346 :contentReference[oaicite:0]{index=0}  
+
+---
+
+## Idea central  
+El artículo demuestra que los países dependientes de recursos naturales presentan una mayor vulnerabilidad fiscal frente a choques externos, no solo por la volatilidad de los precios internacionales, sino por la estructura misma de sus sistemas de ingresos públicos, que amplifica los efectos de los shocks sobre la estabilidad del Estado.
+
+---
+
+## Pregunta / problema que aborda  
+El trabajo analiza hasta qué punto los ingresos fiscales de los países dependientes de recursos son más vulnerables a choques externos —en particular a shocks en los términos de intercambio— en comparación con países no dependientes de recursos, y si esta vulnerabilidad varía según el nivel de desarrollo económico, el régimen político y el período histórico.
+
+---
+
+## Enfoque teórico  
+El artículo se inscribe en la literatura de la *resource curse* y de la *political resource curse*, combinando economía política de los recursos naturales, teoría del Estado fiscal, economía institucional y macroeconomía del desarrollo. Conceptualmente, distingue entre volatilidad y vulnerabilidad, proponiendo que el verdadero problema no es solo la inestabilidad de los ingresos, sino la capacidad estructural de los Estados para absorber y gestionar choques externos. Integra marcos como el Dutch disease, la dependencia extractiva, el crowding-out productivo, la captura de rentas y la debilidad institucional como mecanismos explicativos.
+
+---
+
+## Enfoque metodológico  
+El estudio es empírico y econométrico, basado en análisis de panel con efectos fijos para 178 países en el período 1980–2010. La vulnerabilidad fiscal se operacionaliza como la elasticidad del ingreso público frente a shocks en los términos de intercambio. Utiliza bases de datos internacionales (ICTD Government Revenue Dataset, WDI, IMF) y construye modelos de regresión multivariante con interacciones entre shocks externos y dependencia de recursos, diferenciando por nivel de ingreso, tipo de régimen político y períodos históricos.
+
+---
+
+## Variables / conceptos clave  
+El análisis se estructura en torno a los conceptos de dependencia de recursos, vulnerabilidad fiscal, volatilidad de ingresos públicos, shocks en términos de intercambio, elasticidad fiscal, ingresos tributarios y no tributarios, capacidad estatal, régimen político, state capacity, gestión de rentas, Dutch disease, crowding-out, fondos soberanos, diversificación económica y resiliencia fiscal.
+
+---
+
+## Resultado / argumento principal  
+El artículo muestra que los países dependientes de recursos no solo enfrentan choques externos más volátiles, sino que sus sistemas fiscales son estructuralmente más vulnerables a dichos choques. Esta vulnerabilidad es más marcada en países de ingresos medios y altos dependientes de recursos, mientras que en países más pobres la diferencia con países no dependientes es menor. Además, se observa una mejora relativa en la gestión fiscal de países dependientes durante la década de 2000, especialmente en economías de menores ingresos, lo que sugiere aprendizajes institucionales y reformas en la gestión de rentas. El trabajo también muestra que el tipo de régimen político no explica de forma robusta la vulnerabilidad fiscal, lo que sugiere que la calidad general de las instituciones no se traduce automáticamente en buena gestión del sector extractivo.
+
+---
+
+## Qué me aporta  
+Este artículo proporciona una base teórica y empírica sólida para comprender la *resource curse* desde una perspectiva fiscal y estatal, no solo productiva. Aporta una operacionalización clara del concepto de vulnerabilidad fiscal, un marco metodológico replicable para análisis comparativos y una articulación conceptual potente entre dependencia extractiva, estructura del Estado y estabilidad macroeconómica. Es especialmente valioso para investigaciones sobre Estado fiscal, economía política del desarrollo y dependencia estructural.
+
+---
+
+## Posibles usos futuros  
+Puede utilizarse como marco teórico para estudios sobre Estado rentista y fiscalidad, como modelo conceptual para investigaciones sobre vulnerabilidad macroeconómica en economías extractivas, como base metodológica para análisis econométricos comparativos, como soporte teórico para estudios sobre transición productiva y diversificación, y como referencia central en investigaciones sobre sostenibilidad fiscal, política pública y resiliencia macroeconómica en países dependientes de recursos.
+
+---
+
+## Conexiones  
+El trabajo se conecta con la literatura clásica de la maldición de los recursos (Sachs & Warner, van der Ploeg, Ross), con estudios sobre Dutch disease y economía política de los recursos, con la teoría del Estado fiscal, con enfoques institucionalistas del desarrollo, y con debates contemporáneos sobre state capacity, gobernanza extractiva y resiliencia macroeconómica. Dialoga también con investigaciones del FMI, UNU-WIDER y la literatura sobre gestión de fondos soberanos y reglas fiscales.
+
+---
+
+## Notas libres  
+Este artículo es una referencia clave para estudios de economía política del extractivismo y finanzas públicas. Su enfoque en vulnerabilidad, más que en simple volatilidad, introduce una distinción analítica potente y útil. Es altamente transferible a contextos de América Latina, África y Asia. Funciona como base conceptual para estudios sobre urban resource curse, fiscalidad subnacional y Estados rentistas.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+5.0 / 5.0
+
+---
+
+## Cita en APA  
+von Haldenwang, C., & Ivanyna, M. (2018). *Does the political resource curse affect public finance? The vulnerability of tax revenue in resource-dependent countries*. Journal of International Development, 30(2), 323–344. https://doi.org/10.1002/jid.3346
+
+---
+
 # Ficha bibliográfica # 49.
 
 ## Identificación
@@ -829,6 +901,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
