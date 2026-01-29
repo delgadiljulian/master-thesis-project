@@ -222,6 +222,125 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ## Cita en APA
 - Lwazi, M. (2022). Mineral resource management and economic growth: What Zambia should learn from Chile. Journal of Economics, Finance and Accounting Studies, 4(2), 191–205. https://doi.org/10.32996/jefas.2022.4.2.15
+  
+---
+# Ficha bibliográfica # 34.
+
+## Identificación
+- **Autor(es):** Jianguo Du; Jing Zhang; Xingwei Li  
+- **Año:** 2020  
+- **Título:** *What Is the Mechanism of Resource Dependence and High-Quality Economic Development? An Empirical Test from China*  
+- **Fuente:** Sustainability (MDPI)  
+- **Tipo de documento:** journal article  
+- **DOI / URL:** https://doi.org/10.3390/su12198144  
+
+---
+
+## Idea central
+- La dependencia de recursos naturales afecta negativamente el desarrollo económico de alta calidad a través de efectos de desplazamiento sobre la innovación y la acumulación de talento, configurando una forma moderna de “resource curse”.
+
+---
+
+## Pregunta / problema que aborda
+- ¿Existe una “maldición de los recursos” en la fase de desarrollo económico de alta calidad en China, y a través de qué mecanismos se transmite dicho efecto?
+
+---
+
+## Enfoque teórico
+- Teoría de la “resource curse”  
+- Dutch Disease  
+- Crowding-out effect (innovación y capital humano)  
+- Desarrollo económico de alta calidad  
+- Teorías de innovación (Schumpeter, Romer)  
+- Capital humano (endogenous growth theory)
+
+---
+
+## Enfoque metodológico
+- **Tipo:** empírico  
+- **Diseño:** econométrico  
+- **Modelo:** panel data + multi-step, multi-mediation model (chain mediation)  
+- **Métodos:** GLS (Generalized Least Squares) + Bootstrap  
+- **Unidad de análisis:** provincias de China  
+- **Periodo:** 2007–2017  
+
+---
+
+## Variables / conceptos clave
+- Dependencia de recursos (resource dependence)  
+- Desarrollo económico de alta calidad (HQED)  
+- Inversión en innovación (R&D, capital humano I+D)  
+- Aglomeración de talento (talent gathering)  
+- Estructura productiva  
+- Industrialización  
+- Desarrollo regional  
+- Crowding-out effect  
+- Transición estructural
+
+---
+
+## Resultado / argumento principal
+- Existe una “resource curse” en la fase de desarrollo económico de alta calidad en China.
+- La dependencia de recursos reduce el HQED directa e indirectamente.
+- El efecto se transmite principalmente por:
+  - reducción de inversión en innovación
+  - expulsión de talento
+- La innovación y el talento actúan como mediadores encadenados (chain mediation).
+
+---
+
+## Qué me aporta
+- Marco empírico robusto para integrar:
+  - resource curse  
+  - innovación  
+  - capital humano  
+  - desarrollo estructural  
+- Modelo metodológico replicable (multi-mediation model).
+- Evidencia cuantitativa fuerte para tesis de dependencia de recursos y diversificación.
+- Conecta directamente con transición estructural y transformación productiva.
+
+---
+
+## Posibles usos futuros
+- **Marco teórico:** resource curse + innovación + capital humano  
+- **Modelo conceptual:** cadena recursos → innovación → talento → desarrollo  
+- **Metodología:** modelo de mediación encadenada (bootstrap + GLS)  
+- **Discusión:** mecanismos estructurales de dependencia extractiva  
+- **Contexto:** comparación internacional  
+- **Datos:** diseño de índices compuestos (HQED index)
+
+---
+
+## Conexiones
+- Auty (1993) – Resource Curse Thesis  
+- Sachs & Warner  
+- Dutch Disease literature  
+- Romer (endogenous growth)  
+- Schumpeter (innovación)  
+- Sadik-Zada (resource dependence)  
+- Hausmann / Hidalgo (diversificación y estructura productiva)  
+- Literatura de desarrollo estructural  
+- Economía del desarrollo regional
+
+---
+
+## Notas libres
+- Paper metodológicamente muy sólido.
+- Muy alineado con tesis de transformación estructural.
+- Modelo exportable a América Latina.
+- Altamente compatible con investigación comparativa internacional.
+- Excelente base para marco teórico + metodología.
+- Útil para integrar transición energética, diversificación productiva y dependencia extractiva.
+
+---
+
+## Puntuación de acuerdo a relevancia (0.0 a 5.0)
+- **5.0 / 5.0**
+
+---
+
+## Cita en APA
+Du, J., Zhang, J., & Li, X. (2020). What is the mechanism of resource dependence and high-quality economic development? An empirical test from China. *Sustainability, 12*(19), 8144. https://doi.org/10.3390/su12198144
 
 ---
 # Ficha bibliográfica # 36.
@@ -634,6 +753,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
