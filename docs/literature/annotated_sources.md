@@ -431,6 +431,155 @@ Paper altamente técnico y estructural. Muy útil para análisis de diversificac
 - Gelan, A., Hewings, G. J. D., & Alawadhi, A. (2021). Diversifying a resource-dependent economy: private–public relationships in the Kuwaiti economy. *Economic Structures, 10*(15). https://doi.org/10.1186/s40008-021-00246-4
 ---
 
+# Ficha bibliográfica # 37.
+
+## Identificación
+- Autor(es): Chenyu Lu; Dai Wang; Peng Meng; Jiaqi Yang; Min Pang; Li Wang  
+- Año: 2019  
+- Título: Research on Resource Curse Effect of Resource-Dependent Cities: Case Study of Qingyang, Jinchang and Baiyin in China  
+- Fuente: *Sustainability*, Vol. 11, Artículo 91  
+- Tipo de documento: journal  
+- DOI / URL: https://doi.org/10.3390/su11010091 :contentReference[oaicite:0]{index=0}  
+
+---
+
+## Idea central
+El “resource curse” existe claramente a nivel urbano: las ciudades dependientes de recursos presentan crecimiento económico limitado, estructuras productivas poco diversificadas y trayectorias de desarrollo insostenibles, incluso en distintas fases del ciclo extractivo.
+
+---
+
+## Pregunta / problema que aborda
+¿Existe el efecto de la maldición de los recursos a escala ciudad y cómo se manifiesta en distintos tipos de ciudades dependientes de recursos según su etapa de desarrollo (desarrollo, maduración y recesión)?
+
+---
+
+## Enfoque teórico
+- Resource curse (maldición de los recursos)  
+- Dutch disease  
+- Crowding-out effect  
+- Institution weakening effect  
+- Economía regional  
+- Desarrollo sostenible  
+- Economía urbana extractiva  
+- Dependencia de recursos  
+- Transición estructural  
+- Desarrollo regional desigual  
+
+---
+
+## Enfoque metodológico
+- Empírico  
+- Econometría  
+- Modelo de regresión multivariante  
+- Análisis longitudinal  
+- Estudio de caso comparativo  
+- Índice cuantitativo (Resource Curse Coefficient)  
+- Series de tiempo (1988–2017)  
+- Análisis de panel por ciudad  
+
+---
+
+## Variables / conceptos clave
+- Resource curse coefficient  
+- Crecimiento económico per cápita  
+- Intensidad de desarrollo de recursos  
+- Industria minera  
+- Manufactura  
+- Educación  
+- Ciencia y tecnología  
+- Inversión pública  
+- Grado de apertura  
+- Marketización  
+- Desnacionalización  
+- Dutch disease  
+- Crowding-out  
+- Debilitamiento institucional  
+- Ciudades dependientes de recursos  
+- Desarrollo urbano extractivo  
+
+---
+
+## Resultado / argumento principal
+- El efecto de la maldición de los recursos existe de forma clara a nivel ciudad.
+- La explotación de recursos **no promueve el crecimiento económico**, sino que lo inhibe.
+- El resource curse se manifiesta en todas las etapas: desarrollo, maduración y recesión.
+- El efecto es más fuerte en ciudades en fase de recesión extractiva.
+- Los mecanismos causales son: Dutch disease, crowding-out y debilitamiento institucional.
+- La dependencia extractiva genera estructuras económicas no diversificadas e insostenibles.
+- La abundancia de recursos no se traduce en desarrollo sostenible.
+
+---
+
+## Qué me aporta
+- Marco empírico sólido para estudiar la resource curse a escala urbana.
+- Evidencia científica directa de la maldición de los recursos en ciudades.
+- Metodología cuantitativa replicable.
+- Modelo formal para análisis comparativo interurbano.
+- Base teórica para estudios de “urban resource curse”.
+- Soporte académico fuerte para tesis y papers.
+- Conexión directa entre urbanismo, economía extractiva y desarrollo.
+
+---
+
+## Posibles usos futuros
+- Marco teórico  
+- Modelo conceptual  
+- Metodología  
+- Discusión  
+- Contexto  
+- Datos  
+- Diseño de índices urbanos  
+- Estudios comparativos  
+- Política pública  
+- Planificación territorial  
+- Transición productiva  
+- Economía urbana  
+- Desarrollo regional  
+- Investigación doctoral  
+- Modelos LATAM comparativos  
+
+---
+
+## Conexiones
+- Sachs & Warner (resource curse)  
+- Gylfason (Dutch disease)  
+- Papyrakis & Gerlagh  
+- Sala-i-Martin & Subramanian  
+- Van der Ploeg  
+- Ross (petropolitics)  
+- Economía institucional  
+- Economía urbana  
+- Desarrollo regional  
+- Economía política de recursos  
+- Urban political economy  
+- Path dependence  
+- Transition studies  
+
+---
+
+## Notas libres
+- Paper fundamental para estudios de “urban resource curse”.
+- Muy fuerte metodológicamente.
+- Escala ciudad = enorme valor científico.
+- Directamente aplicable a LATAM.
+- Base ideal para modelos comparativos urbano-extractivos.
+- Excelente para estudios de diversificación productiva.
+- Perfecto para papers de geografía económica y economía urbana.
+- Referencia clave para marcos de sostenibilidad urbana.
+- Artículo altamente citabile.
+
+---
+
+## Puntuación de acuerdo a relevancia
+**5.0 / 5.0**
+
+---
+
+## Cita en APA
+Lu, C., Wang, D., Meng, P., Yang, J., Pang, M., & Wang, L. (2019). *Research on resource curse effect of resource-dependent cities: Case study of Qingyang, Jinchang and Baiyin in China*. Sustainability, 11(1), 91. https://doi.org/10.3390/su11010091
+
+---
+
 # Ficha bibliográfica # 41.
 
 ## Identificación
@@ -757,6 +906,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
