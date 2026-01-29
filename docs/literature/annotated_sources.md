@@ -99,7 +99,7 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 -
 ---
 
-# Puntuación de acuerdo a relevancia (0.0 a 5.0)
+## Puntuación de acuerdo a relevancia (0.0 a 5.0)
 
 ---
 
@@ -757,6 +757,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
