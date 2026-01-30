@@ -503,7 +503,7 @@ Lu, C., Wang, D., Meng, P., Yang, J., Pang, M., & Wang, L. (2019). *Research on 
 
 ---
 
-# Ficha bibliográfica del artículo
+# Ficha bibliográfica # 39.
 
 ## Identificación  
 Autor(es): Sanmang Wu; Li Li; Shantong Li  
@@ -973,6 +973,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
