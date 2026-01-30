@@ -753,6 +753,78 @@ Wu, S., Li, L., & Li, S. (2018). *Natural resource abundance, natural resource-o
 - Howie, P. (2018). Policy transfer and diversification in resource-dependent economies: Lessons for Kazakhstan from Alberta. Politics & Policy, 46(1), 110–140. https://doi.org/10.1111/polp.12239
 ---
 
+
+---
+# Ficha bibliográfica # 42.
+
+## Identificación  
+Autor(es): Bassem Kamar; Raimundo Soto  
+Año: 2017  
+Título: Monetary Policy and Economic Performance in Resource Dependent Economies  
+Fuente: Economic Research Forum (ERF), Working Paper Series No. 1123  
+Tipo de documento: working paper  
+DOI / URL: https://erf.org.eg/publications/monetary-policy-and-economic-performance-in-resource-dependent-economies/ :contentReference[oaicite:0]{index=0}  
+
+---
+
+## Idea central  
+El artículo analiza de manera sistemática cómo la política monetaria y el régimen cambiario condicionan el desempeño económico de las economías dependientes de recursos naturales, mostrando que las prescripciones macroeconómicas estándar no siempre son adecuadas para este tipo de economías, especialmente en contextos de alta volatilidad y dependencia extractiva.
+
+---
+
+## Pregunta / problema que aborda  
+El trabajo se pregunta en qué medida la política monetaria y los regímenes cambiarios influyen sobre el crecimiento económico de largo plazo y la estabilidad de precios en economías basadas en recursos naturales, y si estos efectos difieren de los observados en economías no dependientes de recursos, con especial énfasis en los países del Medio Oriente y Norte de África (MENA).
+
+---
+
+## Enfoque teórico  
+El artículo se inscribe en la literatura de la maldición de los recursos y la macroeconomía del desarrollo, integrando teorías sobre Dutch disease, volatilidad macroeconómica, dependencia de recursos y economía política de la política monetaria. Conceptualmente, distingue entre abundancia de recursos y dependencia productiva, y articula estos conceptos con el marco del “impossible trinity” para analizar las restricciones estructurales que enfrentan las autoridades monetarias en economías extractivas.
+
+---
+
+## Enfoque metodológico  
+El estudio es empírico y econométrico. Utiliza modelos dinámicos de datos de panel estimados mediante el método generalizado de momentos (GMM) para analizar una muestra amplia de países a nivel global durante el período 1970–2013. El análisis se centra en regresiones de crecimiento económico e inflación, incorporando variables institucionales, estructurales, de estabilización macroeconómica y de condiciones externas, así como interacciones entre regímenes cambiarios, política monetaria y dependencia de recursos.
+
+---
+
+## Variables / conceptos clave  
+El análisis se articula alrededor de conceptos como dependencia de recursos naturales, rentas de recursos, crecimiento económico de largo plazo, inflación y volatilidad de precios, regímenes cambiarios (fijo, flotante e intermedio), política monetaria, impossible trinity, Dutch disease, diversificación productiva, apertura comercial y financiera, capital humano, calidad institucional y rendición de cuentas gubernamental.
+
+---
+
+## Resultado / argumento principal  
+El artículo muestra que las economías dependientes de recursos presentan mayores dificultades para estabilizar el crecimiento y la inflación, en parte debido a políticas macroeconómicas procíclicas y a restricciones estructurales impuestas por la dependencia de commodities. Los resultados empíricos indican que las rentas de recursos pueden contribuir positivamente al crecimiento, pero que este efecto se debilita o se revierte en economías altamente dependientes de exportaciones de hidrocarburos. Asimismo, se encuentra que los regímenes cambiarios influyen de manera diferenciada: mientras que los regímenes fijos pueden ayudar a contener la inflación, los regímenes flotantes pueden favorecer el crecimiento en economías petroleras, sugiriendo que muchas economías del GCC podrían beneficiarse de una mayor flexibilidad cambiaria.
+
+---
+
+## Qué me aporta  
+Este trabajo aporta un marco analítico sólido para entender la interacción entre política monetaria, régimen cambiario y dependencia de recursos, ampliando la literatura de la resource curse hacia una perspectiva macroeconómica más integral. Proporciona evidencia empírica robusta sobre la importancia de adaptar las políticas monetarias a las características estructurales de las economías extractivas, y ofrece herramientas conceptuales útiles para analizar la estabilidad macroeconómica en contextos de alta volatilidad externa.
+
+---
+
+## Posibles usos futuros  
+El artículo puede utilizarse como marco teórico para estudios sobre macroeconomía de economías extractivas, como referencia metodológica para análisis de panel dinámico en crecimiento e inflación, como base conceptual para discutir el rol del régimen cambiario en países dependientes de recursos, y como soporte empírico para investigaciones sobre diversificación productiva, política monetaria y desarrollo económico en América Latina, África y Medio Oriente.
+
+---
+
+## Conexiones  
+El trabajo dialoga con la literatura clásica sobre la maldición de los recursos (Sachs & Warner, Gylfason, van der Ploeg), con la teoría del Dutch disease (Corden & Neary), con estudios sobre política monetaria y crecimiento (Lucas, Fischer, Loayza & Soto), y con debates sobre regímenes cambiarios y el impossible trinity (Mundell, Reinhart & Rogoff). También se conecta con investigaciones del FMI y del Banco Mundial sobre economías ricas en recursos.
+
+---
+
+## Notas libres  
+Este working paper es especialmente relevante para analizar economías petroleras y gasíferas, en particular las del MENA y el GCC. Su principal fortaleza radica en integrar política monetaria, régimen cambiario y dependencia de recursos en un mismo marco empírico. Es altamente transferible a estudios comparativos y ofrece una base sólida para investigaciones sobre políticas macroeconómicas alternativas en economías extractivas.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+5.0 / 5.0
+
+---
+
+## Cita en APA  
+Kamar, B., & Soto, R. (2017). *Monetary policy and economic performance in resource dependent economies* (ERF Working Paper No. 1123). Economic Research Forum. https://erf.org.eg/publications/monetary-policy-and-economic-performance-in-resource-dependent-economies/
+
 ---
 # Ficha bibliográfica # 43.
 
@@ -1149,6 +1221,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
