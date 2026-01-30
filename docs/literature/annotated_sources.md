@@ -805,6 +805,110 @@ El desarrollo del sector privado puede convertirse en un mecanismo clave para mi
 
 ---
 
+# Ficha bibliográfica # 45.
+
+## Identificación  
+**Autor(es):**  
+Namazi, Mehdi; Mohammadi, Emran  
+
+**Año:**  
+2018  
+
+**Título:**  
+Natural resource dependence and economic growth: A TOPSIS/DEA analysis of innovation efficiency  
+
+**Fuente:**  
+Resources Policy (Elsevier)  
+
+**Tipo de documento:**  
+Journal (artículo científico)  
+
+**DOI / URL:**  
+https://doi.org/10.1016/j.resourpol.2018.09.015  
+
+---
+
+## Idea central  
+El artículo analiza cómo la eficiencia de los sistemas nacionales de innovación puede permitir que las economías dependientes de recursos naturales eviten la “maldición de los recursos”, proponiendo que la innovación eficiente —y no solo la inversión en innovación— es el factor clave para transformar recursos naturales en desarrollo sostenible.
+
+---
+
+## Pregunta / problema que aborda  
+¿Qué se requiere para que los países dependientes de recursos naturales logren crecimiento económico sostenible a través de la innovación, evitando caer en dinámicas de “resource curse”?
+
+---
+
+## Enfoque teórico  
+Teoría de la maldición de los recursos (resource curse), sistemas nacionales de innovación (NIS), economía política del desarrollo, resiliencia e innovación como mecanismo estructural de transformación productiva.
+
+---
+
+## Enfoque metodológico  
+**Tipo:** Empírico  
+**Método:** Modelo cuantitativo híbrido TOPSIS/DEA (Data Envelopment Analysis + Multi-Criteria Decision Making) aplicado a datos del Global Innovation Index (WIPO).
+
+---
+
+## Variables / conceptos clave  
+- Dependencia de recursos naturales  
+- Eficiencia de la innovación  
+- Sistemas nacionales de innovación (NIS)  
+- Resource curse  
+- Resiliencia de la innovación  
+- Improvability (capacidad de mejora)  
+- Global Innovation Index (GII)  
+- Oil-dependence  
+- Estabilidad política  
+
+---
+
+## Resultado / argumento principal  
+Los países con alta dependencia de recursos naturales, especialmente petróleo, y baja eficiencia innovadora tienden a caer en una “zona de riesgo” estructural (“Trouble Zone”), caracterizada por baja capacidad de mejora y baja resiliencia del sistema de innovación. No basta con invertir en innovación: es crucial la eficiencia sistémica de dicha innovación para evitar la trampa de la maldición de los recursos.
+
+---
+
+## Qué me aporta  
+Un marco cuantitativo sólido para operacionalizar la relación entre dependencia extractiva, innovación y desarrollo, integrando eficiencia, resiliencia e innovación como variables estructurales medibles, no solo como conceptos normativos.
+
+---
+
+## Posibles usos futuros  
+- **Marco teórico:** vínculo entre resource curse, innovación y transformación productiva  
+- **Modelo conceptual:** integración innovación–diversificación–dependencia extractiva  
+- **Metodología:** uso de DEA/TOPSIS para análisis comparativo de países  
+- **Discusión:** política industrial, innovación y transición estructural  
+- **Contexto:** estudios de economías extractivas  
+- **Datos:** uso del Global Innovation Index como base empírica  
+
+---
+
+## Conexiones  
+- Sachs & Warner (resource curse)  
+- Sistemas Nacionales de Innovación (Lundvall, Metcalfe)  
+- Literatura sobre diversificación productiva  
+- Economía política del desarrollo  
+- Global Innovation Index (WIPO)  
+- Estudios sobre dependencia petrolera  
+- Teoría de transformación estructural  
+- Enfoques de resiliencia económica  
+
+---
+
+## Notas libres  
+Concepto potente de “Trouble Zone” como categoría estructural intermedia entre innovación y dependencia extractiva. Muy útil para análisis comparado entre países extractivos y no extractivos. Aporta una formalización cuantitativa del discurso clásico de la maldición de los recursos.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+**5.0 / 5.0**
+
+---
+
+## Cita en APA  
+Namazi, M., & Mohammadi, E. (2018). *Natural resource dependence and economic growth: A TOPSIS/DEA analysis of innovation efficiency*. Resources Policy. https://doi.org/10.1016/j.resourpol.2018.09.015
+
+---
+
 # Ficha bibliográfica # 47. 
 
 ## Identificación  
@@ -973,6 +1077,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
