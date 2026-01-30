@@ -226,7 +226,79 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ## Cita en APA
 - Lwazi, M. (2022). Mineral resource management and economic growth: What Zambia should learn from Chile. Journal of Economics, Finance and Accounting Studies, 4(2), 191–205. https://doi.org/10.32996/jefas.2022.4.2.15
-  
+
+---
+
+# Ficha bibliográfica # 33.
+
+## Identificación  
+Autor(es): Elena Seghezza; Giovanni B. Pittaluga  
+Año: 2018  
+Título: Resource rents and populism in resource-dependent economies  
+Fuente: *European Journal of Political Economy*  
+Tipo de documento: journal  
+DOI / URL: https://doi.org/10.1016/j.ejpoleco.2018.04.002 :contentReference[oaicite:0]{index=0}  
+
+---
+
+## Idea central  
+El artículo sostiene que las rentas derivadas de los recursos naturales, en el contexto de economías dependientes de commodities, facilitan la emergencia y consolidación de regímenes populistas, no como consecuencia de instituciones previamente débiles, sino como resultado de dinámicas políticas inducidas por los ciclos de precios y la ausencia de diversificación productiva.
+
+---
+
+## Pregunta / problema que aborda  
+El trabajo se pregunta por qué en algunos países ricos en recursos naturales las bonanzas de precios de commodities derivan en redistribución populista, debilitamiento democrático y consolidación de regímenes autoritarios, mientras que en otros no ocurre lo mismo. En particular, analiza cómo las rentas de recursos, combinadas con estructuras productivas poco diversificadas, generan condiciones políticas favorables al populismo y a la erosión institucional.
+
+---
+
+## Enfoque teórico  
+El artículo se inscribe en la literatura de la *resource curse*, la economía política del extractivismo y la teoría del Estado rentista, integrando además enfoques sobre populismo, neo-populismo y regímenes plebiscitarios. Conceptualmente, combina la economía política de los recursos naturales con teorías de captura de rentas, clientelismo, debilidad institucional y economía política del desarrollo, proponiendo que las rentas de recursos no solo distorsionan economías, sino que reconfiguran estructuras de poder y regímenes políticos.
+
+---
+
+## Enfoque metodológico  
+El estudio es empírico y econométrico, basado en modelos de datos de panel con efectos fijos y estimaciones dinámicas corregidas por sesgo (LSDVC), utilizando información para países latinoamericanos durante el período 1991–2015. El análisis combina modelos de pro-ciclicidad fiscal, ciclos de precios de commodities, concentración productiva, gasto público y calidad democrática, integrando indicadores macroeconómicos, fiscales, políticos e institucionales en un marco econométrico coherente.
+
+---
+
+## Variables / conceptos clave  
+El trabajo articula conceptos como rentas de recursos naturales, ciclos de precios de commodities, pro-ciclicidad fiscal, gasto público clientelar, concentración productiva, diversificación económica, populismo redistributivo, neo-populismo, democracia plebiscitaria, debilitamiento institucional, captura de rentas, Estado rentista, clientelismo político y dependencia estructural de recursos.
+
+---
+
+## Resultado / argumento principal  
+El artículo demuestra que en economías dependientes de recursos y con baja diversificación productiva, las bonanzas de precios de commodities generan incrementos de gasto público pro-cíclico que son utilizados políticamente para construir apoyo electoral mediante redistribución clientelar. Este proceso permite la emergencia de liderazgos plebiscitarios que, una vez consolidados, debilitan los contrapesos institucionales, erosionan la democracia representativa y transforman regímenes democráticos en estructuras autoritarias. Las rentas de recursos no solo financian el populismo, sino que lo hacen políticamente viable al neutralizar actores productivos alternativos capaces de oponerse al uso clientelar del Estado. Cuando los precios caen, el colapso del gasto clientelar conduce a pérdida de apoyo social y al aumento del autoritarismo represivo como mecanismo de supervivencia del régimen.
+
+---
+
+## Qué me aporta  
+El artículo aporta una reinterpretación política de la maldición de los recursos, desplazando el foco desde la economía hacia la arquitectura del poder. Ofrece un marco explicativo sólido para entender la relación entre extractivismo, populismo y erosión democrática, integrando ciclos económicos, estructuras productivas y regímenes políticos en un mismo modelo analítico. Es especialmente valioso para investigaciones sobre populismo latinoamericano, Estados rentistas y economía política del desarrollo.
+
+---
+
+## Posibles usos futuros  
+Este trabajo puede utilizarse como marco teórico para estudios sobre populismo y extractivismo, como modelo conceptual para investigaciones sobre regímenes rentistas, como referencia metodológica para análisis de ciclos políticos asociados a commodities, como soporte teórico en discusiones sobre democracia y desarrollo, y como base empírica para estudios comparativos en América Latina, África y Medio Oriente.
+
+---
+
+## Conexiones  
+El artículo se conecta con la literatura clásica sobre resource curse (Sachs, van der Ploeg, Mehlum et al., Robinson et al.), con teorías del Estado rentista, con la economía política del populismo (Dornbusch & Edwards, Weyland, Mazzuca), con estudios sobre clientelismo y regímenes autoritarios competitivos, y con enfoques institucionalistas del desarrollo y la democracia (Acemoglu & Robinson, Przeworski & Limongi).
+
+---
+
+## Notas libres  
+Este trabajo es especialmente relevante para el análisis de América Latina y ofrece una explicación estructural del vínculo entre extractivismo y autoritarismo. Su enfoque permite entender el populismo no como anomalía cultural o ideológica, sino como resultado endógeno de configuraciones económicas basadas en rentas. Es altamente transferible a estudios sobre África petrolera, Medio Oriente y economías mineras, y resulta fundamental para marcos analíticos sobre “resource-based authoritarianism”.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+5.0 / 5.0
+
+---
+
+## Cita en APA  
+Seghezza, E., & Pittaluga, G. B. (2018). *Resource rents and populism in resource-dependent economies*. European Journal of Political Economy. https://doi.org/10.1016/j.ejpoleco.2018.04.002
+
 ---
 # Ficha bibliográfica # 34.
 
@@ -345,79 +417,6 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 
 ## Cita en APA
 Du, J., Zhang, J., & Li, X. (2020). What is the mechanism of resource dependence and high-quality economic development? An empirical test from China. *Sustainability, 12*(19), 8144. https://doi.org/10.3390/su12198144
-
----
-
----
-# Ficha bibliográfica # 33.
-
-## Identificación  
-Autor(es): Elena Seghezza; Giovanni B. Pittaluga  
-Año: 2018  
-Título: Resource rents and populism in resource-dependent economies  
-Fuente: *European Journal of Political Economy*  
-Tipo de documento: journal  
-DOI / URL: https://doi.org/10.1016/j.ejpoleco.2018.04.002 :contentReference[oaicite:0]{index=0}  
-
----
-
-## Idea central  
-El artículo sostiene que las rentas derivadas de los recursos naturales, en el contexto de economías dependientes de commodities, facilitan la emergencia y consolidación de regímenes populistas, no como consecuencia de instituciones previamente débiles, sino como resultado de dinámicas políticas inducidas por los ciclos de precios y la ausencia de diversificación productiva.
-
----
-
-## Pregunta / problema que aborda  
-El trabajo se pregunta por qué en algunos países ricos en recursos naturales las bonanzas de precios de commodities derivan en redistribución populista, debilitamiento democrático y consolidación de regímenes autoritarios, mientras que en otros no ocurre lo mismo. En particular, analiza cómo las rentas de recursos, combinadas con estructuras productivas poco diversificadas, generan condiciones políticas favorables al populismo y a la erosión institucional.
-
----
-
-## Enfoque teórico  
-El artículo se inscribe en la literatura de la *resource curse*, la economía política del extractivismo y la teoría del Estado rentista, integrando además enfoques sobre populismo, neo-populismo y regímenes plebiscitarios. Conceptualmente, combina la economía política de los recursos naturales con teorías de captura de rentas, clientelismo, debilidad institucional y economía política del desarrollo, proponiendo que las rentas de recursos no solo distorsionan economías, sino que reconfiguran estructuras de poder y regímenes políticos.
-
----
-
-## Enfoque metodológico  
-El estudio es empírico y econométrico, basado en modelos de datos de panel con efectos fijos y estimaciones dinámicas corregidas por sesgo (LSDVC), utilizando información para países latinoamericanos durante el período 1991–2015. El análisis combina modelos de pro-ciclicidad fiscal, ciclos de precios de commodities, concentración productiva, gasto público y calidad democrática, integrando indicadores macroeconómicos, fiscales, políticos e institucionales en un marco econométrico coherente.
-
----
-
-## Variables / conceptos clave  
-El trabajo articula conceptos como rentas de recursos naturales, ciclos de precios de commodities, pro-ciclicidad fiscal, gasto público clientelar, concentración productiva, diversificación económica, populismo redistributivo, neo-populismo, democracia plebiscitaria, debilitamiento institucional, captura de rentas, Estado rentista, clientelismo político y dependencia estructural de recursos.
-
----
-
-## Resultado / argumento principal  
-El artículo demuestra que en economías dependientes de recursos y con baja diversificación productiva, las bonanzas de precios de commodities generan incrementos de gasto público pro-cíclico que son utilizados políticamente para construir apoyo electoral mediante redistribución clientelar. Este proceso permite la emergencia de liderazgos plebiscitarios que, una vez consolidados, debilitan los contrapesos institucionales, erosionan la democracia representativa y transforman regímenes democráticos en estructuras autoritarias. Las rentas de recursos no solo financian el populismo, sino que lo hacen políticamente viable al neutralizar actores productivos alternativos capaces de oponerse al uso clientelar del Estado. Cuando los precios caen, el colapso del gasto clientelar conduce a pérdida de apoyo social y al aumento del autoritarismo represivo como mecanismo de supervivencia del régimen.
-
----
-
-## Qué me aporta  
-El artículo aporta una reinterpretación política de la maldición de los recursos, desplazando el foco desde la economía hacia la arquitectura del poder. Ofrece un marco explicativo sólido para entender la relación entre extractivismo, populismo y erosión democrática, integrando ciclos económicos, estructuras productivas y regímenes políticos en un mismo modelo analítico. Es especialmente valioso para investigaciones sobre populismo latinoamericano, Estados rentistas y economía política del desarrollo.
-
----
-
-## Posibles usos futuros  
-Este trabajo puede utilizarse como marco teórico para estudios sobre populismo y extractivismo, como modelo conceptual para investigaciones sobre regímenes rentistas, como referencia metodológica para análisis de ciclos políticos asociados a commodities, como soporte teórico en discusiones sobre democracia y desarrollo, y como base empírica para estudios comparativos en América Latina, África y Medio Oriente.
-
----
-
-## Conexiones  
-El artículo se conecta con la literatura clásica sobre resource curse (Sachs, van der Ploeg, Mehlum et al., Robinson et al.), con teorías del Estado rentista, con la economía política del populismo (Dornbusch & Edwards, Weyland, Mazzuca), con estudios sobre clientelismo y regímenes autoritarios competitivos, y con enfoques institucionalistas del desarrollo y la democracia (Acemoglu & Robinson, Przeworski & Limongi).
-
----
-
-## Notas libres  
-Este trabajo es especialmente relevante para el análisis de América Latina y ofrece una explicación estructural del vínculo entre extractivismo y autoritarismo. Su enfoque permite entender el populismo no como anomalía cultural o ideológica, sino como resultado endógeno de configuraciones económicas basadas en rentas. Es altamente transferible a estudios sobre África petrolera, Medio Oriente y economías mineras, y resulta fundamental para marcos analíticos sobre “resource-based authoritarianism”.
-
----
-
-## Puntuación de acuerdo a relevancia  
-5.0 / 5.0
-
----
-
-## Cita en APA  
-Seghezza, E., & Pittaluga, G. B. (2018). *Resource rents and populism in resource-dependent economies*. European Journal of Political Economy. https://doi.org/10.1016/j.ejpoleco.2018.04.002
 
 ---
 # Ficha bibliográfica # 36.
@@ -1150,6 +1149,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
