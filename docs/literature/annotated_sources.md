@@ -503,6 +503,78 @@ Lu, C., Wang, D., Meng, P., Yang, J., Pang, M., & Wang, L. (2019). *Research on 
 
 ---
 
+# Ficha bibliográfica del artículo
+
+## Identificación  
+Autor(es): Sanmang Wu; Li Li; Shantong Li  
+Año: 2018  
+Título: Natural resource abundance, natural resource-oriented industry dependence, and economic growth: Evidence from the provincial level in China  
+Fuente: *Resources, Conservation & Recycling*, Vol. 139, pp. 163–171  
+Tipo de documento: journal  
+DOI / URL: https://doi.org/10.1016/j.resconrec.2018.08.012 :contentReference[oaicite:0]{index=0}  
+
+---
+
+## Idea central  
+El artículo demuestra que la abundancia de recursos naturales no constituye en sí misma una maldición para el crecimiento económico; el verdadero problema surge cuando el desarrollo económico se vuelve estructuralmente dependiente de industrias orientadas a los recursos, generando dinámicas de estancamiento, desindustrialización y bloqueo del desarrollo de largo plazo.
+
+---
+
+## Pregunta / problema que aborda  
+El trabajo se pregunta si la “maldición de los recursos” se explica por la abundancia de recursos naturales en sí misma o por la dependencia estructural de industrias extractivas, y analiza cómo cada una de estas dimensiones afecta el crecimiento económico a nivel subnacional, específicamente en las provincias chinas.
+
+---
+
+## Enfoque teórico  
+El artículo se inscribe en la tradición de la teoría de la *natural resource curse*, pero introduce una distinción conceptual clave entre abundancia de recursos y dependencia productiva de industrias extractivas. Integra economía del desarrollo, economía institucional, economía regional y teoría de la transformación estructural, articulando los mecanismos clásicos de transmisión de la maldición de los recursos: Dutch disease, crowding-out y debilitamiento institucional. El enfoque teórico entiende el problema no como una condición natural, sino como una configuración estructural del sistema productivo y del modelo de desarrollo.
+
+---
+
+## Enfoque metodológico  
+El estudio es empírico y econométrico. Utiliza datos de panel a nivel provincial en China para el período 1997–2015, combinando modelos de efectos fijos bidireccionales con análisis de series temporales, promedios quinquenales y datos transversales de largo plazo. El diseño metodológico permite distinguir efectos de corto, mediano y largo plazo, y separa analíticamente la abundancia de recursos naturales de la dependencia de industrias extractivas como variables explicativas diferenciadas.
+
+---
+
+## Variables / conceptos clave  
+El trabajo se estructura alrededor de los conceptos de abundancia de recursos naturales, dependencia de industrias orientadas a recursos, crecimiento económico per cápita, Dutch disease, crowding-out, debilitamiento institucional, capital humano, innovación tecnológica, inversión extranjera directa, inversión física, intervención estatal, estructura industrial, manufactura, transformación estructural y dependencia productiva.
+
+---
+
+## Resultado / argumento principal  
+El artículo demuestra que la abundancia de recursos naturales tiene efectos positivos sobre el crecimiento económico en el corto, mediano y largo plazo. Sin embargo, la dependencia estructural de industrias orientadas a recursos tiene efectos negativos persistentes sobre el crecimiento de mediano y largo plazo, configurando lo que verdaderamente constituye la “maldición de los recursos”. Esta dependencia actúa a través de tres mecanismos de transmisión: el Dutch disease, que debilita el desarrollo de la manufactura; el efecto crowding-out, que reduce la inversión en capital humano, innovación tecnológica e inversión extranjera; y el debilitamiento institucional, reflejado en una mayor intervención estatal y menor eficiencia en la asignación de recursos. En conjunto, estos mecanismos generan un bloqueo estructural del desarrollo sostenible.
+
+---
+
+## Qué me aporta  
+El artículo aporta una clarificación conceptual fundamental al separar analíticamente abundancia de recursos y dependencia extractiva, resolviendo una ambigüedad central en la literatura clásica de la resource curse. Proporciona evidencia empírica robusta a nivel subnacional, una metodología replicable para estudios comparativos territoriales y un marco teórico integrador que conecta estructura productiva, instituciones y crecimiento económico. Es especialmente valioso para investigaciones sobre dependencia estructural, economías extractivas y transformación productiva.
+
+---
+
+## Posibles usos futuros  
+Este trabajo puede utilizarse como marco teórico para estudios sobre economías extractivas, como modelo conceptual para investigaciones sobre dependencia productiva, como referencia metodológica para análisis econométricos subnacionales, como soporte teórico en discusiones sobre diversificación económica y transición estructural, y como base empírica para políticas públicas orientadas a reconversión productiva y desarrollo territorial sostenible.
+
+---
+
+## Conexiones  
+El artículo dialoga directamente con la literatura clásica de la maldición de los recursos (Auty, Sachs & Warner, Gylfason, van der Ploeg, Ross, Papyrakis & Gerlagh), con la teoría del Dutch disease (Corden & Neary), con la economía institucional, con la economía política del desarrollo y con los enfoques contemporáneos de transformación estructural, desarrollo regional y dependencia productiva.
+
+---
+
+## Notas libres  
+Este trabajo es una referencia estructural clave para redefinir el concepto de resource curse. Su distinción entre abundancia y dependencia productiva permite reinterpretar gran parte de la literatura previa. Es altamente transferible a contextos de América Latina, África y Asia, especialmente para análisis subnacionales y urbanos. Constituye una base teórica sólida para estudios sobre ciudades extractivas, regiones mineras, economías petroleras y planificación territorial.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+5.0 / 5.0
+
+---
+
+## Cita en APA  
+Wu, S., Li, L., & Li, S. (2018). *Natural resource abundance, natural resource-oriented industry dependence, and economic growth: Evidence from the provincial level in China*. Resources, Conservation & Recycling, 139, 163–171. https://doi.org/10.1016/j.resconrec.2018.08.012
+
+---
+
 # Ficha bibliográfica # 41.
 
 ## Identificación
@@ -901,6 +973,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
