@@ -107,6 +107,101 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 -
 ---
 
+## Ficha bibliográfica # 14. 
+
+### Identificación
+**Autor(es):**  
+Long, Michael A.; Stretesky, Paul B.; Lynch, Michael J.
+
+**Año:**  
+2017
+
+**Título:**  
+Foreign Direct Investment, Ecological Withdrawals, and Natural-Resource-Dependent Economies
+
+**Fuente:**  
+*Society & Natural Resources: An International Journal*
+
+**Tipo de documento:**  
+Journal (artículo académico)
+
+**DOI / URL:**  
+https://doi.org/10.1080/08941920.2017.1331483 :contentReference[oaicite:0]{index=0}
+
+---
+
+### Idea central  
+El artículo demuestra que mayores niveles de inversión extranjera directa (IED) en países menos desarrollados incrementan la extracción de recursos naturales y la dependencia de las rentas asociadas, reforzando dinámicas de degradación ecológica y dependencia estructural.
+
+---
+
+### Pregunta / problema que aborda  
+¿Cómo influye la inversión extranjera directa en la intensidad de extracción de recursos naturales y en la dependencia de las rentas de recursos naturales en economías dependientes de dichos recursos?
+
+---
+
+### Enfoque teórico  
+Economía política ecológica y sociología ambiental, apoyada en el *treadmill of production*, la teoría de la dependencia de la inversión extranjera y el enfoque ecostructural de la organización transnacional de la producción.
+
+---
+
+### Enfoque metodológico  
+**Empírico**  
+**Econometría (panel data longitudinal con efectos fijos)**
+
+---
+
+### Variables / conceptos clave  
+- Inversión Extranjera Directa (IED)  
+- Extracción y agotamiento de recursos naturales  
+- Rentas de recursos naturales  
+- Economías dependientes de recursos  
+- Organización transnacional de la producción  
+- Dependencia estructural y desigualdad ecológica
+
+---
+
+### Resultado / argumento principal  
+El estudio encuentra evidencia robusta de que la IED incrementa significativamente tanto el agotamiento de recursos naturales como las rentas derivadas de estos (excepto en el caso de las rentas energéticas), reforzando la dependencia económica y la desorganización ecológica en países menos desarrollados.
+
+---
+
+### Qué me aporta  
+Proporciona evidencia econométrica sólida para vincular la IED con dinámicas de *resource curse*, dependencia estructural y degradación ambiental, útil para conectar economía internacional, desarrollo y economía ecológica.
+
+---
+
+### Posibles usos futuros  
+- **Marco teórico:** economía política del desarrollo y ecología política  
+- **Metodología:** modelos de panel con efectos fijos aplicados a recursos naturales  
+- **Discusión:** resource curse, IED y desigualdad ecológica  
+- **Contexto:** análisis de economías extractivas en países en desarrollo
+
+---
+
+### Conexiones  
+- Literatura sobre *resource curse* (Sachs & Warner; Ross)  
+- Teoría de dependencia y sistemas-mundo  
+- Ecologically unequal exchange (Jorgenson)  
+- Debates sobre IED, desarrollo y sostenibilidad
+
+---
+
+### Notas libres  
+Artículo muy alineado con enfoques críticos del crecimiento basado en recursos naturales. Relevante para analizar estrategias de diversificación productiva y límites estructurales del desarrollo extractivo.
+
+---
+
+### Puntuación de acuerdo a relevancia  
+**4.7 / 5.0**
+
+---
+
+### Cita en APA  
+Long, M. A., Stretesky, P. B., & Lynch, M. J. (2017). *Foreign direct investment, ecological withdrawals, and natural-resource-dependent economies*. **Society & Natural Resources, 30**(11), 1373–1391. https://doi.org/10.1080/08941920.2017.1331483
+
+---
+
 # Ficha bibliográfica # 17.
 
 ## Identificación
@@ -1221,6 +1316,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
