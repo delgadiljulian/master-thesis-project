@@ -514,6 +514,105 @@ Seghezza, E., & Pittaluga, G. B. (2018). *Resource rents and populism in resourc
 Du, J., Zhang, J., & Li, X. (2020). What is the mechanism of resource dependence and high-quality economic development? An empirical test from China. *Sustainability, 12*(19), 8144. https://doi.org/10.3390/su12198144
 
 ---
+
+## Ficha bibliográfica # 35.
+
+### Identificación
+**Autor(es):**  
+Boucekkine, Raouf; Prieur, Fabien; Puzon, Klarizze
+
+**Año:**  
+2016
+
+**Título:**  
+On the timing of political regime changes in resource-dependent economies
+
+**Fuente:**  
+*European Economic Review*, Vol. 85, pp. 188–207
+
+**Tipo de documento:**  
+Journal (artículo académico)
+
+**DOI / URL:**  
+https://doi.org/10.1016/j.euroecorev.2016.02.016 :contentReference[oaicite:0]{index=0}
+
+---
+
+### Idea central  
+El artículo desarrolla una teoría dinámica que explica cómo la abundancia de recursos naturales influye en el **momento** y la **duración** de las transiciones políticas en economías dependientes de recursos, a través de estrategias de redistribución y represión utilizadas por las élites.
+
+---
+
+### Pregunta / problema que aborda  
+¿Cómo interactúan la abundancia de recursos naturales, las políticas de redistribución y represión, y los costos de revolución para determinar la duración de los regímenes autocráticos y el momento de las transiciones políticas?
+
+---
+
+### Enfoque teórico  
+Economía política dinámica de la democratización, inspirada en el marco élites–ciudadanos de Acemoglu y Robinson, incorporando explícitamente recursos naturales, desigualdad, represión y vulnerabilidad del régimen.
+
+---
+
+### Enfoque metodológico  
+**Teórico**  
+**Modelo dinámico de crecimiento (AK) con juego líder–seguidor y elección endógena del tiempo de revolución**
+
+---
+
+### Variables / conceptos clave  
+- Economías dependientes de recursos naturales  
+- Duración de regímenes autocráticos  
+- Timing de revoluciones  
+- Redistribución y represión  
+- Vulnerabilidad del régimen (costos directos de revolución)  
+- “Cake size effect” y relajación de la restricción presupuestal de la élite
+
+---
+
+### Resultado / argumento principal  
+El efecto de la abundancia de recursos sobre la duración de las autocracias es **ambiguo**:  
+- Por un lado, un mayor stock de recursos incentiva revoluciones más tempranas (*cake size effect*).  
+- Por otro, mayores recursos permiten financiar más represión, prolongando el régimen (*budget constraint relaxation effect*).  
+El equilibrio depende del grado de vulnerabilidad del régimen y de las estrategias óptimas de la élite.
+
+---
+
+### Qué me aporta  
+Aporta un marco teórico riguroso para entender por qué la evidencia empírica sobre “recursos naturales y democracia” es ambigua, desplazando el foco desde la calidad institucional hacia la **duración y el timing de los regímenes políticos**.
+
+---
+
+### Posibles usos futuros  
+- **Marco teórico:** resource curse, economía política del desarrollo, transiciones políticas  
+- **Modelo conceptual:** interacción élites–ciudadanos con recursos naturales  
+- **Discusión:** duración de autocracias, represión vs. redistribución  
+- **Contexto:** análisis de países petroleros y economías extractivas (MENA, América Latina, África)
+
+---
+
+### Conexiones  
+- Acemoglu & Robinson (democratización)  
+- Ross (oil impedes democracy)  
+- Caselli (recursos y conflicto)  
+- Literatura sobre Arab Spring y regímenes rentistas  
+- Debates sobre resource curse vs. resource blessing
+
+---
+
+### Notas libres  
+Especialmente valioso por introducir explícitamente el **tiempo** como variable endógena de la transición política y por explicar la diversidad de resultados observados durante la Primavera Árabe desde un modelo teórico unificado.
+
+---
+
+### Puntuación de acuerdo a relevancia  
+**4.8 / 5.0**
+
+---
+
+### Cita en APA  
+Boucekkine, R., Prieur, F., & Puzon, K. (2016). *On the timing of political regime changes in resource-dependent economies*. **European Economic Review, 85**, 188–207. https://doi.org/10.1016/j.euroecorev.2016.02.016
+
+---
 # Ficha bibliográfica # 36.
 
 ## Identificación
@@ -1316,6 +1415,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
