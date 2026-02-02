@@ -107,6 +107,104 @@ Toda fuente académica relevante será registrada utilizando esta estructura, ga
 -
 ---
 
+## Ficha bibliográfica # 1. 
+
+### Identificación
+**Autor(es):**  
+Kurronen, Sanna
+
+**Año:**  
+2015
+
+**Título:**  
+Financial sector in resource-dependent economies
+
+**Fuente:**  
+*Emerging Markets Review*, Elsevier
+
+**Tipo de documento:**  
+Journal (artículo académico)
+
+**DOI / URL:**  
+https://doi.org/10.1016/j.ememar.2015.04.010 :contentReference[oaicite:0]{index=0}
+
+---
+
+### Idea central  
+El artículo demuestra empíricamente que las economías dependientes de recursos naturales tienden a desarrollar sistemas financieros con un **sector bancario doméstico más pequeño** y una **mayor dependencia de financiamiento basado en mercados**, lo que refuerza la maldición de los recursos al dificultar la diversificación productiva.
+
+---
+
+### Pregunta / problema que aborda  
+¿Cómo afecta la dependencia de recursos naturales a la estructura, tamaño y funcionamiento del sector financiero —en particular del sistema bancario doméstico— en economías en desarrollo y emergentes?
+
+---
+
+### Enfoque teórico  
+Economía del desarrollo y economía política del *resource curse*, combinada con teorías de estructura financiera (bank-based vs. market-based systems) y nueva economía estructural (factor endowments y estructura productiva).
+
+---
+
+### Enfoque metodológico  
+**Empírico**  
+**Econometría de datos de panel (modelos pooled, efectos fijos y Anderson–Hsiao dinámico, con regresión no lineal por umbrales)**
+
+---
+
+### Variables / conceptos clave  
+- Dependencia de recursos naturales (exportaciones minerales, producción no manufacturera, riqueza subterránea)  
+- Desarrollo financiero  
+- Crédito bancario al sector privado  
+- Profundidad financiera (M2/GDP)  
+- Financiamiento basado en mercados (capitalización bursátil, deuda internacional)  
+- Resource curse  
+- Umbrales no lineales
+
+---
+
+### Resultado / argumento principal  
+Existe un **umbral bajo de dependencia de recursos** (≈6% de exportaciones minerales) a partir del cual la relación entre recursos y desarrollo bancario se vuelve negativa. En niveles altos de dependencia, el crédito bancario al sector privado disminuye significativamente, mientras aumenta el rol de los mercados financieros y del financiamiento externo, lo que perjudica a pymes y sectores emergentes.
+
+---
+
+### Qué me aporta  
+Aporta evidencia sólida de que el **sector financiero es un canal central de transmisión de la maldición de los recursos**, conectando estructura productiva, financiamiento y baja diversificación económica.
+
+---
+
+### Posibles usos futuros  
+- **Marco teórico:** resource curse, economía política del desarrollo  
+- **Modelo conceptual:** relación recursos–estructura financiera–diversificación  
+- **Metodología:** panel dinámico con umbrales  
+- **Discusión:** pymes, financiamiento y transformación estructural  
+- **Contexto:** economías extractivas en África, América Latina y MENA
+
+---
+
+### Conexiones  
+- Frankel (resource curse)  
+- Beck (recursos y desarrollo financiero)  
+- Rajan & Zingales (finanzas y crecimiento)  
+- Lin et al. (nueva economía estructural)  
+- Literatura sobre Dutch disease y volatilidad macroeconómica
+
+---
+
+### Notas libres  
+Especialmente relevante para explicar por qué muchas economías ricas en recursos no logran desarrollar sectores manufactureros o intensivos en conocimiento: el sistema financiero se adapta a las grandes firmas extractivas y no a la economía diversificada.
+
+---
+
+### Puntuación de acuerdo a relevancia  
+**4.9 / 5.0**
+
+---
+
+### Cita en APA  
+Kurronen, S. (2015). *Financial sector in resource-dependent economies*. **Emerging Markets Review, 23**, 208–229. https://doi.org/10.1016/j.ememar.2015.04.010
+
+---
+
 ## Ficha bibliográfica # 14. 
 
 ### Identificación
@@ -1507,6 +1605,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
