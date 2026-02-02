@@ -324,6 +324,98 @@ Long, M. A., Stretesky, P. B., & Lynch, M. J. (2017). *Foreign direct investment
 
 ---
 
+# Ficha bibliográfica # 19.
+
+## Identificación
+**Autor(es):**  
+Araujo, Juliana D.; Li, Bin Grace; Poplawski-Ribeiro, Marcos; Zanna, Luis-Felipe  
+
+**Año:**  
+2016  
+
+**Título:**  
+Current account norms in natural resource rich and capital scarce economies  
+
+**Fuente:**  
+*Journal of Development Economics*, Vol. 120, pp. 144–156  
+
+**Tipo de documento:**  
+Journal article  
+
+**DOI / URL:**  
+https://doi.org/10.1016/j.jdeveco.2015.10.005 :contentReference[oaicite:0]{index=0}  
+
+---
+
+## Idea central  
+El artículo desarrolla un modelo macroeconómico para determinar normas de cuenta corriente en economías en desarrollo ricas en recursos naturales, incorporando restricciones de endeudamiento, escasez de capital y fricciones en la inversión, mostrando que dichas economías no deberían necesariamente exhibir superávits externos elevados como predice la hipótesis del ingreso permanente.
+
+---
+
+## Pregunta / problema que aborda  
+¿Cuál es el nivel “normativo” o sostenible de la cuenta corriente en economías ricas en recursos naturales pero escasas en capital, considerando necesidades de desarrollo, restricciones financieras y fricciones institucionales?
+
+---
+
+## Enfoque teórico  
+Macroeconomía intertemporal de economía abierta, basada en la hipótesis del ingreso permanente, extendida con teoría del desarrollo, escasez de capital y restricciones financieras externas.
+
+---
+
+## Enfoque metodológico  
+**Tipo:** Mixto (principalmente teórico con aplicación empírica calibrada)  
+**Método:**  
+Modelo neoclásico dinámico de economía pequeña y abierta con inversión pública y privada, fricciones (ineficiencias, capacidad de absorción, prima de riesgo país) y simulaciones numéricas calibradas para países de la CEMAC.
+
+---
+
+## Variables / conceptos clave  
+Cuenta corriente, sostenibilidad externa, renta de recursos naturales, escasez de capital, inversión pública y privada, capacidad de absorción, prima de riesgo país, restricciones de endeudamiento, norma de cuenta corriente.
+
+---
+
+## Resultado / argumento principal  
+Las economías en desarrollo ricas en recursos naturales pueden justificar déficits de cuenta corriente o superávits reducidos durante booms de recursos si los ingresos se destinan óptimamente a inversión productiva. Las normas basadas únicamente en la hipótesis del ingreso permanente tienden a sobreestimar el nivel sostenible de superávit externo cuando se ignoran fricciones reales del desarrollo.
+
+---
+
+## Qué me aporta  
+Un marco formal sólido para integrar desarrollo, inversión y restricciones financieras en el análisis de sostenibilidad externa, directamente útil para reinterpretar la “resource curse” y para construir benchmarks de cuenta corriente más realistas en economías extractivas.
+
+---
+
+## Posibles usos futuros  
+- Marco teórico para tesis sobre transformación estructural y economías extractivas  
+- Base conceptual para modelos de sostenibilidad externa en países ricos en recursos  
+- Insumo metodológico para calibraciones macroeconómicas (IMF-style)  
+- Discusión crítica de normas EBA/PIH en contextos de desarrollo  
+
+---
+
+## Conexiones  
+Relaciona y dialoga con la literatura de:
+- Hipótesis del Ingreso Permanente (Friedman)  
+- Resource curse (Sachs & Warner)  
+- Desarrollo y escasez de capital (van der Ploeg & Venables)  
+- Evaluaciones de sostenibilidad externa del FMI (EBA, ES)  
+
+---
+
+## Notas libres  
+Especialmente relevante para análisis de países petroleros de ingresos medios y bajos (África, América Latina). El modelo es extensible a temas como enfermedad holandesa, volatilidad de precios y FDI, lo que abre líneas claras de investigación futura.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+**4.8 / 5.0**
+
+---
+
+## Cita en APA  
+Araujo, J. D., Li, B. G., Poplawski-Ribeiro, M., & Zanna, L.-F. (2016). *Current account norms in natural resource rich and capital scarce economies*. Journal of Development Economics, 120, 144–156. https://doi.org/10.1016/j.jdeveco.2015.10.005
+
+---
+
 # Ficha bibliográfica # 33.
 
 ## Identificación  
@@ -1415,6 +1507,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
