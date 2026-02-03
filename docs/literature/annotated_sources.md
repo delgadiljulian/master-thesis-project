@@ -514,6 +514,106 @@ Araujo, J. D., Li, B. G., Poplawski-Ribeiro, M., & Zanna, L.-F. (2016). *Current
 
 ---
 
+# Ficha bibliográfica # 28.
+
+## Identificación
+**Autor(es):**  
+Bond, James; Fajgenbaum, José  
+
+**Año:**  
+2014  
+
+**Título:**  
+Harnessing Natural Resources for Diversification  
+
+**Fuente:**  
+Global Journal of Emerging Market Economies, Vol. 6, No. 2, pp. 119–143 (SAGE Publications / Emerging Markets Forum)  
+
+**Tipo de documento:**  
+Journal (artículo académico)  
+
+**DOI / URL:**  
+https://doi.org/10.1177/0974910114525536  
+
+---
+
+## Idea central  
+El artículo propone una visión de largo plazo (2050) en la que África transforma su dotación de recursos naturales en una base para la diversificación productiva, evitando la maldición de los recursos mediante una gestión macroeconómica prudente, instituciones sólidas y el desarrollo de capacidades productivas e industriales.
+
+---
+
+## Pregunta / problema que aborda  
+¿Cómo pueden los países africanos ricos en recursos naturales convertir las rentas extractivas en crecimiento inclusivo, diversificación económica y convergencia con economías emergentes y avanzadas, evitando los efectos negativos del boom-and-bust y el Dutch disease?
+
+---
+
+## Enfoque teórico  
+Economía del desarrollo y de los recursos naturales, teoría de la maldición de los recursos, transformación estructural, economía política de las rentas, y enfoques institucionales sobre gobernanza, estabilidad macroeconómica e intergeneracionalidad.
+
+---
+
+## Enfoque metodológico  
+**Tipo:** Mixto  
+**Método:** Análisis conceptual y comparativo apoyado en evidencia descriptiva, estadísticas internacionales (Banco Mundial, BP, FMI) y estudios de caso ilustrativos (Botswana, Nigeria, Chile, Ghana, Sudáfrica, Zimbabwe).
+
+---
+
+## Variables / conceptos clave  
+- Recursos naturales y rentas extractivas  
+- Diversificación productiva  
+- Resource curse  
+- Dutch disease  
+- Fondos de estabilización y fondos soberanos  
+- Reglas fiscales  
+- Gobernanza y transparencia  
+- Encadenamientos productivos (upstream y downstream)  
+- Transformación estructural  
+
+---
+
+## Resultado / argumento principal  
+La dependencia de recursos no determina inevitablemente malos resultados de desarrollo. Con políticas adecuadas —mejor captura de rentas, reglas fiscales contracíclicas, fondos de estabilización y riqueza, inversión en capital humano e infraestructura, y fomento de sectores no extractivos— los recursos naturales pueden convertirse en un catalizador de diversificación y convergencia económica.
+
+---
+
+## Qué me aporta  
+Un marco integral y realista para analizar la relación entre recursos naturales y diversificación en economías en desarrollo, combinando macroeconomía, política fiscal, gobernanza y estrategia productiva, con especial énfasis en horizontes de largo plazo.
+
+---
+
+## Posibles usos futuros  
+- **Marco teórico:** resource curse y transformación estructural  
+- **Modelo conceptual:** rol de las rentas extractivas en la diversificación  
+- **Discusión:** políticas fiscales, fondos soberanos e intergeneracionalidad  
+- **Contexto:** economías africanas y comparaciones internacionales  
+- **Datos:** referencia a indicadores y clasificaciones de dependencia de recursos  
+
+---
+
+## Conexiones  
+- Literatura clásica sobre resource curse (Sachs & Warner)  
+- Economía política del desarrollo  
+- Estudios sobre fondos soberanos (Noruega, Chile)  
+- Debates sobre Dutch disease  
+- Transformación estructural y diversificación productiva  
+
+---
+
+## Notas libres  
+La metáfora de África como “factory and granary to the world” sintetiza una visión ambiciosa pero condicionada a reformas institucionales profundas. El artículo es especialmente útil para discusiones estratégicas y de política pública más que para estimaciones econométricas formales.
+
+---
+
+## Puntuación de acuerdo a relevancia  
+**5.0 / 5.0**
+
+---
+
+## Cita en APA  
+Bond, J., & Fajgenbaum, J. (2014). *Harnessing natural resources for diversification*. Global Journal of Emerging Market Economies, 6(2), 119–143. https://doi.org/10.1177/0974910114525536
+
+---
+
 # Ficha bibliográfica # 33.
 
 ## Identificación  
@@ -1605,6 +1705,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
