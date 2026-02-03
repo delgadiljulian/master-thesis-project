@@ -422,6 +422,57 @@ Long, M. A., Stretesky, P. B., & Lynch, M. J. (2017). *Foreign direct investment
 
 ---
 
+# Ficha bibliográfica # 18.
+
+## Identificación
+**Autor(es):** Agosin, Manuel R.; Alvarez, Roberto; Bravo-Ortega, Claudio  
+**Año:** 2012  
+**Título:** *Determinants of Export Diversification Around the World: 1962–2000*  
+**Fuente:** The World Economy, Vol. 35, No. 3, pp. 295–315  
+**Tipo de documento:** journal  
+**DOI / URL:** https://doi.org/10.1111/j.1467-9701.2011.01395.x :contentReference[oaicite:0]{index=0}  
+
+## Idea central  
+El artículo identifica empíricamente los principales determinantes de la diversificación (o concentración) de las exportaciones a nivel mundial, mostrando que factores estructurales y de dotación —especialmente capital humano y distancia económica— son más relevantes que las reformas comerciales o financieras.
+
+## Pregunta / problema que aborda  
+¿Qué factores explican los cambios en la diversificación de las exportaciones entre países y a lo largo del tiempo, y cuál es el rol de las reformas económicas, los shocks de términos de intercambio y las características estructurales?
+
+## Enfoque teórico  
+Economía internacional y desarrollo, con fundamentos en modelos de comercio con firmas heterogéneas (Melitz), dotaciones factoriales y literatura sobre diversificación productiva y enfermedad holandesa.
+
+## Enfoque metodológico  
+Empírico, utilizando técnicas de panel dinámico (System GMM) aplicadas a una muestra amplia de países durante el período 1962–2000.
+
+## Variables / conceptos clave  
+Diversificación de exportaciones, índices de concentración (Herfindahl, Gini, Theil), apertura comercial, desarrollo financiero, capital humano, distancia económica, volatilidad cambiaria, sobrevaluación cambiaria, términos de intercambio, enfermedad holandesa.
+
+## Resultado / argumento principal  
+Los resultados muestran que la apertura comercial tiende a aumentar la especialización y no la diversificación; el desarrollo financiero no tiene un efecto robusto; el capital humano contribuye a diversificar exportaciones; la distancia económica aumenta la concentración; y los shocks positivos de términos de intercambio concentran exportaciones en países con bajo capital humano, pero pueden favorecer la diversificación en países más educados.
+
+## Qué me aporta  
+Aporta evidencia sólida y de largo plazo para entender por qué muchos países en desarrollo permanecen concentrados en pocos productos de exportación, y por qué las reformas comerciales por sí solas no garantizan diversificación productiva.
+
+## Posibles usos futuros  
+- Marco empírico para analizar diversificación exportadora en economías basadas en recursos  
+- Referencia clave para discutir enfermedad holandesa y capital humano  
+- Base metodológica para estudios de panel dinámico en comercio y desarrollo  
+- Insumo para política pública orientada a transformación productiva  
+
+## Conexiones  
+Conecta con Imbs y Wacziarg (2003) sobre etapas de diversificación, Lederman y Maloney sobre recursos naturales y crecimiento, Melitz (2003) en comercio con firmas heterogéneas, y la literatura sobre enfermedad holandesa y términos de intercambio.
+
+## Notas libres  
+El resultado contraintuitivo de que la apertura comercial aumenta la concentración es central para debates de política en América Latina y economías primario-exportadoras, y cuestiona enfoques de liberalización como estrategia única de diversificación.
+
+## Puntuación de acuerdo a relevancia  
+**5.0 / 5.0**
+
+## Cita en APA  
+Agosin, M. R., Alvarez, R., & Bravo-Ortega, C. (2012). *Determinants of export diversification around the world: 1962–2000*. **The World Economy, 35**(3), 295–315. https://doi.org/10.1111/j.1467-9701.2011.01395.x
+
+---
+
 # Ficha bibliográfica # 19.
 
 ## Identificación
@@ -1807,6 +1858,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
