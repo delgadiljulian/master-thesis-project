@@ -514,6 +514,57 @@ Araujo, J. D., Li, B. G., Poplawski-Ribeiro, M., & Zanna, L.-F. (2016). *Current
 
 ---
 
+# Ficha bibliográfica # 26.
+
+## Identificación
+**Autor(es):** Berg, Andrew; Portillo, Rafael; Yang, Shu-Chun S.; Zanna, Luis-Felipe  
+**Año:** 2013  
+**Título:** *Public Investment in Resource-Abundant Developing Countries*  
+**Fuente:** IMF Economic Review, Vol. 61, No. 1, pp. 92–129  
+**Tipo de documento:** journal  
+**DOI / URL:** https://doi.org/10.1057/imfer.2013.1 :contentReference[oaicite:0]{index=0}  
+
+## Idea central  
+El artículo desarrolla un modelo dinámico-estocástico para analizar cómo los países en desarrollo ricos en recursos naturales pueden usar los ingresos extractivos para financiar inversión pública, equilibrando crecimiento, estabilidad macroeconómica y sostenibilidad fiscal frente a la volatilidad y agotamiento de los recursos.
+
+## Pregunta / problema que aborda  
+¿Cómo deben gestionar los países en desarrollo abundantes en recursos naturales los ingresos provenientes de estos recursos para maximizar el desarrollo económico, considerando ineficiencias en la inversión pública, restricciones de absorción, enfermedad holandesa y volatilidad de precios?
+
+## Enfoque teórico  
+Macroeconomía del desarrollo y economía de los recursos naturales, combinando la hipótesis del ingreso permanente (PIH) con enfoques modernos de inversión pública productiva y sostenibilidad fiscal.
+
+## Enfoque metodológico  
+Empírico–teórico, basado en un modelo DSGE (Dynamic Stochastic General Equilibrium) calibrado para economías en desarrollo ricas en recursos.
+
+## Variables / conceptos clave  
+Inversión pública, eficiencia de la inversión, capacidad de absorción, fondos soberanos, volatilidad de ingresos, agotamiento de recursos, enfermedad holandesa, capital público, buffers fiscales.
+
+## Resultado / argumento principal  
+Invertir los ingresos de recursos naturales puede generar mayores beneficios de desarrollo que el ahorro externo puro, pero solo si se consideran explícitamente las limitaciones de eficiencia y absorción. La estrategia óptima es una “sustainable investing approach” que combine inversión pública gradual con ahorro en un fondo de recursos para estabilización y sostenibilidad de largo plazo.
+
+## Qué me aporta  
+Proporciona un marco formal y operativo para analizar políticas fiscales en economías extractivas, superando la dicotomía simplista entre “ahorrar todo” o “invertir todo”, e incorporando explícitamente problemas institucionales y macroeconómicos reales.
+
+## Posibles usos futuros  
+- Marco teórico para análisis de economías dependientes de recursos naturales  
+- Base conceptual para modelos de crecimiento con inversión pública  
+- Soporte metodológico para simulaciones estocásticas en tesis o policy papers  
+- Discusión de políticas fiscales y fondos soberanos en países en desarrollo  
+
+## Conexiones  
+Se conecta con la literatura sobre la maldición de los recursos (Sachs & Warner, van der Ploeg), fondos soberanos y PIH, y trabajos de Collier, Venables y el FMI sobre inversión pública y desarrollo.
+
+## Notas libres  
+El artículo es especialmente valioso por introducir explícitamente la eficiencia de la inversión y los costos de mantenimiento del capital público, aspectos frecuentemente ignorados en modelos más normativos.
+
+## Puntuación de acuerdo a relevancia  
+**5.0 / 5.0**
+
+## Cita en APA  
+Berg, A., Portillo, R., Yang, S.-C. S., & Zanna, L.-F. (2013). *Public investment in resource-abundant developing countries*. **IMF Economic Review, 61**(1), 92–129. https://doi.org/10.1057/imfer.2013.1
+
+---
+
 # Ficha bibliográfica # 28.
 
 ## Identificación
@@ -1705,6 +1756,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
