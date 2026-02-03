@@ -665,6 +665,57 @@ Bond, J., & Fajgenbaum, J. (2014). *Harnessing natural resources for diversifica
 
 ---
 
+# Ficha bibliográfica # 32.
+
+## Identificación
+**Autor(es):** Cherif, Reda; Hasanov, Fuad  
+**Año:** 2013  
+**Título:** *Oil Exporters’ Dilemma: How Much to Save and How Much to Invest*  
+**Fuente:** World Development, Vol. 52, pp. 120–131  
+**Tipo de documento:** journal  
+**DOI / URL:** https://doi.org/10.1016/j.worlddev.2013.06.006 :contentReference[oaicite:0]{index=0}  
+
+## Idea central  
+El artículo analiza cómo los países exportadores de petróleo deben asignar ingresos volátiles entre consumo, ahorro e inversión, mostrando que, bajo alta incertidumbre, el ahorro precautorio óptimo es elevado y la propensión marginal a consumir es menor que la predicha por modelos de previsión perfecta.
+
+## Pregunta / problema que aborda  
+¿Cuál es la combinación óptima de consumo, ahorro e inversión para países exportadores de petróleo que enfrentan alta volatilidad de ingresos y shocks permanentes, y cómo difiere de las predicciones del modelo de ingreso permanente con previsión perfecta?
+
+## Enfoque teórico  
+Teoría del ahorro precautorio, buffer-stock saving y macroeconomía de economías dependientes de recursos naturales, con énfasis en incertidumbre y shocks permanentes versus temporales.
+
+## Enfoque metodológico  
+Teórico–cuantitativo, basado en un modelo estocástico de ahorro e inversión bajo incertidumbre, resuelto numéricamente y calibrado para un grupo de países exportadores de petróleo.
+
+## Variables / conceptos clave  
+Ahorro precautorio, buffer-stock savings, propensión marginal a consumir (MPC), shocks permanentes y temporales, inversión riesgosa, productividad del sector transable, volatilidad de ingresos, fondos soberanos.
+
+## Resultado / argumento principal  
+El modelo muestra que, ante alta volatilidad y shocks permanentes dominantes, los gobiernos óptimamente ahorran una fracción significativa del ingreso (≈30%) y mantienen tasas de inversión relativamente bajas, a menos que la productividad del sector transable sea suficientemente alta. La MPC frente a shocks permanentes es menor que uno, en contraste con el modelo de previsión perfecta.
+
+## Qué me aporta  
+Aporta un marco formal claro para entender por qué muchos países petroleros acumulan grandes ahorros externos y consumen con cautela, incluso durante booms de precios, ayudando a interpretar empíricamente la conducta fiscal observada en los 2000s.
+
+## Posibles usos futuros  
+- Marco teórico para análisis de política fiscal en economías petroleras  
+- Soporte conceptual para discutir MPC, shocks permanentes y windfalls  
+- Base metodológica para simulaciones estocásticas en tesis o policy papers  
+- Comparación crítica con PIH y modelos de previsión perfecta  
+
+## Conexiones  
+Conecta con la literatura de ahorro precautorio (Carroll), economía de recursos naturales (van der Ploeg, Venables), fondos soberanos, y trabajos del FMI sobre volatilidad, inversión y manejo de ingresos extractivos.
+
+## Notas libres  
+El artículo es especialmente útil para justificar empíricamente por qué los booms petroleros no se traducen automáticamente en mayor consumo o inversión, y por qué tratar shocks como permanentes puede ser una respuesta racional bajo incertidumbre.
+
+## Puntuación de acuerdo a relevancia  
+**5.0 / 5.0**
+
+## Cita en APA  
+Cherif, R., & Hasanov, F. (2013). *Oil exporters’ dilemma: How much to save and how much to invest*. **World Development, 52**, 120–131. https://doi.org/10.1016/j.worlddev.2013.06.006
+
+---
+
 # Ficha bibliográfica # 33.
 
 ## Identificación  
@@ -1756,6 +1807,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
