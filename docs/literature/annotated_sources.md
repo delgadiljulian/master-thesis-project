@@ -565,6 +565,57 @@ Araujo, J. D., Li, B. G., Poplawski-Ribeiro, M., & Zanna, L.-F. (2016). *Current
 
 ---
 
+# Ficha bibliográfica # 21.
+
+## Identificación
+**Autor(es):** Arezki, Rabah  
+**Año:** 2011  
+**Título:** *Fiscal Policy in Commodity-Exporting Countries: Stability and Growth*  
+**Fuente:** En *Natural Resources, Finance, and Development: Confronting Old and New Challenges*, Capítulo 9, Fondo Monetario Internacional  
+**Tipo de documento:** capítulo  
+**DOI / URL:** https://www.imf.org/external/pubs/ft/seminar/2011/naturalresources.htm :contentReference[oaicite:0]{index=0}  
+
+## Idea central  
+El capítulo analiza cómo los windfalls de recursos naturales afectan la estabilidad macroeconómica y el crecimiento de largo plazo en países exportadores de commodities, mostrando que los efectos negativos sobre el sector no extractivo se transmiten principalmente a través de la política fiscal.
+
+## Pregunta / problema que aborda  
+¿Cómo influyen los shocks de ingresos por recursos naturales y la respuesta fiscal en la estabilidad macroeconómica y el crecimiento del sector no extractivo en países exportadores de commodities?
+
+## Enfoque teórico  
+Macroeconomía del desarrollo y economía de los recursos naturales, integrando la literatura sobre la maldición de los recursos, la enfermedad holandesa y el rol de la política fiscal y las instituciones políticas.
+
+## Enfoque metodológico  
+Empírico, combinando modelos VAR de panel para analizar dinámicas de corto plazo y técnicas de cointegración en panel para identificar efectos de largo plazo sobre el crecimiento del PIB no extractivo.
+
+## Variables / conceptos clave  
+Windfalls de recursos, PIB no extractivo, gasto público, pro-ciclicidad fiscal, enfermedad holandesa, tipo de cambio real, instituciones políticas, crecimiento de largo plazo.
+
+## Resultado / argumento principal  
+Los windfalls de recursos tienden a inducir políticas fiscales procíclicas: inicialmente desplazan al sector no extractivo, pero posteriormente lo expanden vía gasto público. Sin embargo, en el largo plazo, los windfalls y el aumento del tamaño del gobierno afectan negativamente el crecimiento del PIB no extractivo, siendo estos efectos mitigados por la calidad de las instituciones políticas.
+
+## Qué me aporta  
+Aporta una descomposición clara entre efectos de corto y largo plazo de los windfalls de recursos, destacando el papel central del gasto público como canal de transmisión de la maldición de los recursos hacia el sector no extractivo.
+
+## Posibles usos futuros  
+- Marco empírico para analizar la política fiscal en economías dependientes de recursos  
+- Soporte conceptual para discusiones sobre pro-ciclicidad fiscal y reglas fiscales  
+- Referencia para estudios sobre enfermedad holandesa y crecimiento de largo plazo  
+- Insumo para diseño de políticas fiscales e institucionales en países exportadores de commodities  
+
+## Conexiones  
+Conecta con la literatura sobre resource curse (Sachs & Warner; van der Ploeg), enfermedad holandesa, reglas fiscales (Chile), y trabajos de Arezki, Brückner, Collier y Goderis sobre shocks de commodities y crecimiento.
+
+## Notas libres  
+El uso de PIB no extractivo como variable central es clave para aislar efectos reales sobre la economía productiva y evaluar sostenibilidad del crecimiento más allá del agotamiento de recursos.
+
+## Puntuación de acuerdo a relevancia  
+**5.0 / 5.0**
+
+## Cita en APA  
+Arezki, R. (2011). *Fiscal policy in commodity-exporting countries: Stability and growth*. En *Natural resources, finance, and development: Confronting old and new challenges* (Cap. 9). Washington, DC: International Monetary Fund.
+
+---
+
 # Ficha bibliográfica # 26.
 
 ## Identificación
@@ -1858,6 +1909,7 @@ Este archivo documentará:
 - maduración teórica  
 
 durante el desarrollo de la investigación bibliográfica.
+
 
 
 
