@@ -1,171 +1,227 @@
-# Master Thesis Research Project  
-**Structural Transformation, Diversification Dynamics, and Resource Dependence**
+# Master Thesis Research Repository  
+**Dependencia de recursos naturales y trayectorias de transición estructural (1980–2022)**  
 
-**Reproducible research repository for a Master’s thesis in Applied Economics**
+Reproducible research repository for a Master’s thesis in Applied Economics  
+University of Buenos Aires  
 
-This repository contains the full scientific infrastructure, research architecture, data pipelines, and methodological framework for a Master’s thesis focused on structural transformation and the dynamics of economic diversification under conditions of non-renewable resource dependence.
+---
 
-This is not a document repository — it is a research system designed as a reproducible scientific laboratory, following principles of open science, research governance, and academic reproducibility.
+## Overview
+
+This repository contains the full research infrastructure for my Master’s thesis in Applied Economics.
+
+It is a personal initiative designed to organize the thesis as a structured, reproducible, and transparent research system. It is not a program requirement.
+
+The project studies why some resource-dependent economies transform extractive rents into sustained processes of structural diversification and capability accumulation, while others remain locked in long-run extractive trajectories.
+
+The repository integrates:
+
+- Conceptual framework  
+- Literature systematization  
+- Data architecture  
+- Econometric modeling  
+- Reproducible workflows  
+- Research governance documentation  
+
+This is not only a document archive.  
+It is a structured research environment.
 
 ---
 
 ## Core Research Question
 
-> How do the dynamics, speed, and structural patterns of economic diversification differ across economic systems that have historically been dependent on non-renewable natural resources, and which structural mechanisms explain these differences across different regimes of resource dependence?
+> Which productive, institutional, and macroeconomic mechanisms are systematically associated with differences in structural transformation trajectories among resource-dependent economies during 1980–2022?
 
-**Conceptual formulation:**
+Conceptually, the thesis examines how different degrees of natural resource dependence condition:
 
-> *This thesis studies how varying degrees of non-renewable resource dependence shape the trajectories, speed, and structural patterns of economic diversification within economies that have historically followed extractive development paths.*
+- Diversification dynamics  
+- Productive upgrading  
+- Structural change  
+- Long-run development trajectories  
 
 ---
 
 ## Research Focus
 
-### **Central concepts**
+### Central Themes
+
+- Resource dependence  
 - Structural transformation  
-- Economic diversification dynamics  
-- Speed of productive diversification  
-- Resource-dependent (RD) economic systems  
-- Post-resource-dependence (PRD) economic systems  
-- Extractive economic structures  
-- Long-run development trajectories  
-- Transformation pathways  
-- Comparative structural dynamics  
+- Productive diversification  
+- Dutch disease mechanisms  
+- Extractive enclaves  
+- Institutional quality and governance of rents  
+- Commodity price volatility  
+- Capital accumulation and innovation  
+- Regime transitions within extractive development paths  
 
-### **Analytical perspective**
-The project does not study countries as isolated units.  
-It studies **structural economic systems** characterized by different degrees of non-renewable resource dependence **within the universe of historically extractive economies**.
+### Analytical Perspective
 
-Economic systems are treated as **structural configurations** rather than fixed national categories, allowing economies to transition over time between different regimes of resource dependence.
+The project adopts a structural-comparative approach.
 
-RD and PRD are understood as **structural regimes** within historically resource-dependent economies, not as global country classifications.
+Countries are treated as empirical cases of broader structural configurations.  
+The focus is on mechanisms and structural regularities, not on country storytelling.
 
-Countries are treated as empirical realizations of structural models, not as the unit of analysis.
+Resource dependence is modeled as a continuous structural condition, not as a binary classification.
+
+The analysis emphasizes:
+
+- Structural mechanisms  
+- Institutional mediation  
+- Macroeconomic constraints  
+- Dynamic transitions  
 
 ---
 
 ## Research Objectives
 
-### **General objective**
-To analyze how different degrees of non-renewable resource dependence affect the speed, structure, and dynamics of productive diversification across economic systems with historically extractive development trajectories.
+### General Objective
 
-### **Specific objectives**
-- Construct dynamic indicators of productive diversification  
-- Measure diversification velocity and transformation rates  
-- Model degrees of resource dependence as structural conditions  
-- Identify structural transformation trajectories within historically extractive economies  
-- Classify structural regimes of resource dependence (RD → transitional → PRD)  
-- Compare diversification dynamics across different dependence regimes  
-- Evaluate structural and institutional correlates of diversification speed  
-- Model dynamic transformation processes using econometric tools  
-- Analyze regime transitions within extractive development paths  
+To comparatively analyze the productive, institutional, and macroeconomic mechanisms that explain differences in diversification trajectories among resource-dependent economies (1980–2022).
+
+### Specific Objectives
+
+- Systematize productive mechanisms linked to extractive persistence  
+- Estimate the role of institutional quality and rent governance  
+- Analyze the impact of commodity price volatility  
+- Evaluate the interaction between human capital, innovation, and upgrading  
+- Compare structural trajectories across economies  
+- Identify patterns of structural transformation and persistence  
 
 ---
 
 ## Methodological Framework
 
-### **Analytical design**
-- Structural-comparative approach  
-- Dynamic trajectory analysis  
-- Transformation path modeling  
-- Regime-based structural analysis within extractive economies  
-- Non-homogeneous time structures  
-- Structural alignment of historical processes  
+### Analytical Design
 
-### **Econometric strategy**
-- Dynamic panel modeling  
-- Structural panel designs  
-- Regime and phase-aligned panels  
-- Continuous modeling of resource dependence (non-binary)  
+- Comparative empirical analysis  
+- Structural panel approach  
+- Mechanism-based modeling  
+- Long-run trajectory analysis  
+- Regime-sensitive interpretation  
+
+### Econometric Strategy
+
+- Dynamic panel models  
 - Endogeneity control  
-- Dynamic persistence modeling  
-- Structural heterogeneity analysis  
-- Robustness and regime sensitivity testing  
+- Persistence modeling  
+- Heterogeneity analysis  
+- Structural interaction terms  
+- Robustness testing  
 
-### **Temporal logic**
-Time is treated as structural time, not calendar time:
-- Asynchronous historical trajectories  
-- Phase-based temporal alignment  
-- Event-based structural timing  
-- Regime-based segmentation  
-- Relative-time modeling  
+### Temporal Scope
+
+1980–2022  
+
+The period captures:
+
+- Financial globalization  
+- Commodity supercycles  
+- Institutional transitions  
+- Post-boom adjustment dynamics  
 
 ---
 
 ## Data Architecture
 
-### **Core data sources**
+### Core Sources
+
 - World Development Indicators (World Bank)  
 - UNCTADstat  
-- International Energy Agency (IEA)  
-- Penn World Table (PWT)  
-- External research datasets  
-- Historical economic databases  
+- Penn World Table  
+- International Energy Agency  
+- Institutional quality datasets  
+- Historical commodity price databases  
 
-### **Data philosophy**
-- Separation of raw and processed data  
-- Deterministic pipelines  
-- Reproducible transformations  
-- Transparent construction of indicators  
-- Versioned datasets  
-- Traceable processing flows  
+### Data Principles
+
+- Raw and processed data separation  
+- Script-based data construction  
+- Transparent variable definitions  
+- Versioned transformations  
+- Replication-ready structure  
 
 ---
 
 ## Repository Structure
 
-docs/ → Theory, methodology, protocols, drafts, research design  
-data/ → Raw, processed, and external datasets  
-src/ → Data pipelines, construction scripts, econometric models  
-notebooks/ → Exploratory analysis and modeling workflows  
-outputs/ → Tables, figures, models, logs  
-reproducibility/ → Environments, dependencies, execution pipelines  
-governance/ → Research protocols, ethics, versioning, data policy  
+docs/
+drafts/
+literature/
+methodology/
+proposal/
+theory/
+
+data/
+raw/
+processed/
+external/
+
+src/
+data_pipeline/
+econometrics/
+indicators/
+
+notebooks/
+exploratory/
+modeling/
+
+outputs/
+tables/
+figures/
+logs/
+
+reproducibility/
+environment/
+requirements/
+
+governance/
+research_protocol/
+data_policy/
+versioning/
+ethics/
+
 
 ---
 
-## Reproducible Research Design
+## Reproducibility Design
 
-This repository follows reproducible science principles:
+The repository follows open science principles:
 
 - Script-based workflows  
-- Deterministic data pipelines  
-- Versioned transformations  
-- Reproducible environments  
-- Transparent modeling  
-- Replication-ready structure  
-- Auditability  
-- Traceability of results  
-- Scientific governance  
+- Deterministic pipelines  
+- Fully documented transformations  
+- Transparent model construction  
+- Replicable output generation  
+- Traceable research decisions  
+
+All core results are designed to be reproducible from raw data to final tables.
 
 ---
 
 ## Governance and Research Integrity
 
-The project includes formal governance components:
+This repository includes:
 
 - Research protocol  
-- Data governance policy  
-- Ethics statement  
-- Versioning strategy  
-- Reproducibility framework  
+- Data governance documentation  
+- Version control strategy  
 - Documentation standards  
+- Replicability framework  
 
-Ensuring compliance with:
+It is structured to meet:
 
 - Academic integrity standards  
-- Open science principles  
-- Replicability requirements  
-- Research transparency norms  
-- Journal submission standards  
+- Journal submission expectations  
+- Transparency and reproducibility norms  
 
 ---
 
 ## Status
 
-**Stage:** Conceptual refactoring and research core definition  
-**Phase:** Structural design and analytical framework construction  
-**Development:** Active  
+Stage: Proposal approved – empirical development phase  
+Phase: Data construction and econometric implementation  
+Status: Active development  
 
 ---
 
@@ -173,7 +229,7 @@ Ensuring compliance with:
 
 **Julián Alberto Delgadillo Marín**  
 Master’s Program in Applied Economics  
-University of Buenos Aires  
+Universidad de Buenos Aires  
 
 GitHub: https://github.com/delgadiljulian  
 
@@ -187,20 +243,15 @@ MIT License — open academic and research use.
 
 ## Research Philosophy
 
-This repository is not a thesis document archive.
+This repository is a long-term research platform.
 
-It is a scientific research system:
+It is:
 
+- Structured  
 - Modular  
 - Reproducible  
-- Scalable  
-- Replicable  
-- Auditable  
+- Transparent  
 - Extendable to journal publications  
-- Extendable to PhD research  
-- Compatible with academic research standards  
-- Designed as a long-term research platform  
+- Scalable to doctoral research  
 
----
-
-> *This repository represents a full scientific research architecture for the study of structural diversification dynamics under varying degrees of non-renewable resource dependence within historically extractive economic systems and their transitions toward post-resource-dependence (PRD) regimes.*
+It reflects a commitment to rigorous, structured, and replicable economic research.
