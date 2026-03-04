@@ -1,3 +1,5 @@
+# Scripts
+
 This directory contains the analytical pipeline used in the thesis.
 
 Suggested workflow:
